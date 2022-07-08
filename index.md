@@ -2,7 +2,7 @@
 
 ![teaser](images/teaserdsm.png)
 
-The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2022 from __February 04th - April 14th (10 weeks)__ and is dedicated to professionals in---among others---the manufacturing sector.
+The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2022 from __September 22nd - December 2nd (10 weeks)__ and is dedicated to professionals in---among others---the manufacturing sector.
 
 Assuming students are familiar with the processes commonly used to organise and undertake engineering manufacture this online course teaches:
 
@@ -31,8 +31,8 @@ It covers the fundamentals of:
 
 
 Meet the organizers and join our **[open info session on MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJjNDZjMGQtMWNiMC00ODYyLTliZGUtNDA0NmVmZjk4YTFm%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2269a6ec46-60d9-4c4e-99e5-c8561f10dbfb%22%7d)** (installed MS Teams application required). The session gives an overview over the course and the chance for prospective students to ask questions about the content and delivery of the course. Sessions times are 
-* Wednesday, January 12th, 4-5pm, BST
-* Wednesday, January 19th, 6-7pm, BST
+* Wednesday, August 17th, 4-5pm, BST
+* Wednesday, August 24th, 6-7pm, BST
 
 
 With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __tutorial workshops__, __drop-in sessions__,  __complementary online teaching material__, and __seminars by guest speakers__. More about the [course organisation](organisation.html) and its [schedule](content.html).
@@ -66,7 +66,7 @@ Browse further detail on the __[course structure](organisation.md)__.
 
 
 ## Course Delivery Information
-* Start Date: __04 February 2022__
+* Start Date: __22 September 2022__
 * Course Duration: __10 weeks__, complementing self-directed online and on site learning with one hands-on session per week via a virtual classroom, in addition to a Q&amp;A session to discuss lectures and corresponding exercises 
 * Total Hours: __50-100hrs__ (Lecture Hours 9; Workshop tutorial Hours 18; Independent Study Hours 30-73) 
 * Weekly investment: __5-10hrs__, including lectures, workshop tutorials, reading, Q&As, project work.
