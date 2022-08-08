@@ -23,7 +23,7 @@ Eligibility criteria for a fee waiver are laid out [here](entry.html).
 The Bayes Centre will continue to accept applications for this course till close of play Fri, 20th January 2022. 
 
 
-### Can I also take another course in Bayes' _Data Skills Workforce Development_ portfolio?
+### Can I also take another course in Bayes' _Data Upskilling Short Courses_ portfolio?
 
 Yes, though there may be restrictions on the number of funded places you can have each academic session.
 
