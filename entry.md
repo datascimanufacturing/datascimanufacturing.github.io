@@ -49,7 +49,7 @@ If you do not qualify for the SFC funding you may still qualify for funding unde
 
 Please see [eligibility requirements for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), or contact [bayes-training@ed.ac.uk](mailto:bayes-training@ed.ac.uk) for more detail.
 
-The __course fee is £000__. While those who obtain fee waivers will be prioritised in allocating places, we do have availability for fee-paying participants, both within and outwith Scotland. -->
+The __course fees for 2022/23 are £1010 __. While those who obtain fee waivers will be prioritised in allocating places, we do have availability for fee-paying participants, both within and outwith Scotland. -->
 
 
 
