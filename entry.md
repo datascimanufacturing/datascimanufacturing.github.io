@@ -27,7 +27,7 @@ You must be comfortable studying and learning in English if it is not your first
 # Fees and Funding
 
 
-The course fees for 2022/23 are £1010, but funded places are available for people employed, unemployed or furloughed in Scotland who meet Scottish Funding Council eligibility criteria. Follow this [link](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply) for more information on funding.  <!-- It is currently https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply but this will change when our new website goes live. -->
+The course fees for 2022/23 are £1010, but funded places are available for people employed, unemployed or furloughed in Scotland who meet Scottish Funding Council eligibility criteria. Follow this [link]([https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply](https://www.ed.ac.uk/bayes/about-us/education/workforce-development/funding-eligibility)) for more information on funding.  <!-- It is currently https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply but this will change when our new website goes live. -->
 
 
 <!-- The *Scottish Funding Council (SFC) Upskilling Fund* is providing a __fixed number of fee waivers__ for participants who meet at least one of the following criteria. 
