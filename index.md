@@ -31,8 +31,7 @@ It covers the fundamentals of:
 
 
 Meet the organizers and join our **[open info session on MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJjNDZjMGQtMWNiMC00ODYyLTliZGUtNDA0NmVmZjk4YTFm%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2269a6ec46-60d9-4c4e-99e5-c8561f10dbfb%22%7d)** (installed MS Teams application required). The session gives an overview over the course and the chance for prospective students to ask questions about the content and delivery of the course. Sessions times are 
-* Wednesday, August 17th, 4-5pm, BST
-* Wednesday, August 24th, 6-7pm, BST
+* Thursday, Sept 1st, 6-7pm, BST
 
 
 With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __tutorial workshops__, __drop-in sessions__,  __complementary online teaching material__, and __seminars by guest speakers__. More about the [course organisation](organisation.html) and its [schedule](content.html).
