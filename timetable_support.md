@@ -12,7 +12,7 @@ Times below are UK times.
 |  Week | Date | Lecture | Workshop/ Tutorial  | Teaching  |    
 |---|---|---|---|---|---|
 | 1 |  Sept 22 | Introduction and Foundations| Intro to Python programming and Jupyter Notebooks  | A.Sherlock, D. Korre  |  
-| 2 | Sept 30  | Data Carpentry |  Data carpentry introduction |  A.Sherlock, D. Korre  |   
+| 2 | Sept 30  | Data Carpentry |  Intro to Python and Data carpentry |  A.Sherlock, D. Korre  |   
 | 3 | Oct 7  | Product Lifecycle / Material Flow  |  Data carpentry and data cleaning |  A.Sherlock, D. Korre  |   
 | 4 | Oct 14  | Data visualisation and Exploratory Data Analysis  | Data Visualisation and Exploratory Data Analysis  |  A.Sherlock, D. Korre  |   
 | 5 | Oct 21  | Current Manufacturing Software / PLM / ERP /MES  |  Data Representation / Relational databases |  A.Sherlock, D. Korre  |
