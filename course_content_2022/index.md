@@ -78,7 +78,7 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 |  Week | Date | Lecture | Workshop/ Tutorial  | Teaching  |    
 |---|---|---|---|---|---|
 | 1 |  Sep 22 | <a href="session-1#lecture">Introduction and Foundations</a> | <a href="session-1#workshop">Intro to Python programming and Jupyter Notebooks</a>  | A.Sherlock, D. Korre  |  
-| 2 | Sep 30  | <a href="session-2#lecture">Data Carpentry</a> |  <a href="session-2#workshop">Git and data carpentry introduction</a> |  A.Sherlock, D. Korre  |   
+| 2 | Sep 30  | <a href="session-2#lecture">Data Carpentry</a> |  <a href="session-2#workshop">Intro to Python and Data carpentry</a> |  A.Sherlock, D. Korre  |   
 | 3 | Oct 7  | <a href="session-3#lecture">Product Lifecycle / Material Flow</a>  |  <a href="session-3#workshop">Data carpentry and data cleaning</a> |  A.Sherlock, D. Korre  |   
 | 4 | Oct 14  | <a href="session-4#lecture">Data visualisation and Exploratory Data Analysis</a>  | <a href="session-4#workshop">Data Visualisation and Exploratory Data Analysis</a>  |  A.Sherlock, D. Korre  |   
 | 5 | Oct 21  | <a href="session-5#lecture">Current Manufacturing Software / PLM / ERP /MES</a>  |  <a href="session-5#workshop">Data Representation / Relational databases</a> |  A.Sherlock, D. Korre  |
