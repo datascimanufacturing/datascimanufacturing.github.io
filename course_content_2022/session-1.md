@@ -20,10 +20,10 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Introduction to Data Science for Manufacturing](files/Data_Science_in_Manufacturing-Week_1.pdf)  
+* [Introduction to Data Science for Manufacturing](files/DSM-Week_1.pdf)  
 
 #### Video lectures
-* [DSM Lecture 1](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_1/Week_1_Lecture_recording.mp4?csf=1&web=1&e=UdPaou)
+* [DSM Lecture 1]()
 
 <br />
 
@@ -70,10 +70,10 @@ back to [course content](index#course_organisation)
 * Read tabular data from a file into a program.
 
 ### Slides
-* [Introduction to Python programming and Jupyter Notebooks](files/Workshop-Week_1.pdf)  
+* [Introduction to Python programming and Jupyter Notebooks](files/DSM_Workshop-Week_1.pdf)  
 
 #### Video lectures
-* [DSM Workshop 1](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_1/Week_1_Workshop_tutorial_how_to_clone_a_repo.mp4?csf=1&web=1&e=eakJYZ)
+* [DSM Workshop 1]()
 
 #### Cheatsheets
 
