@@ -20,7 +20,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Introduction to Data Science for Manufacturing](files/DSM_Week_1.pdf)  
+* [Introduction to Data Science for Manufacturing](files/DSM-Week_1.pdf)  
 
 #### Video lectures
 * [DSM Lecture 1]()
