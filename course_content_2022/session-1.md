@@ -20,7 +20,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Introduction to Data Science for Manufacturing](files/DSM-Week_1.pdf)  
+* [Introduction to Data Science for Manufacturing](files/DSM_Week_1.pdf)  
 
 #### Video lectures
 * [DSM Lecture 1]()
@@ -70,7 +70,7 @@ back to [course content](index#course_organisation)
 * Read tabular data from a file into a program.
 
 ### Slides
-* [Introduction to Python programming and Jupyter Notebooks](files/DSM_Workshop-Week_1.pdf)  
+* [Introduction to Python programming and Jupyter Notebooks](files/DSM_Workshop_Week 1.pdf)  
 
 #### Video lectures
 * [DSM Workshop 1]()
