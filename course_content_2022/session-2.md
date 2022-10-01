@@ -25,7 +25,7 @@ back to [course content](index#course_organisation)
 * [Introduction to Data Science for Manufacturing](files/Data_Science_in_Manufacturing-Week_2.pdf)  
 
 #### Video lectures
-* [DSM Lecture 2](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_2/Week_2_Lecture.mp4?csf=1&web=1&e=XsDpCO)
+* [DSM Lecture 2](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EeT6j5LUGwpAhzphhbQWzxMBKVlDuiJC2GOrU3bNbCvRbg?e=3F3heP)
 
 <br />
 
@@ -88,9 +88,11 @@ Cios, K., 2010. Data mining. New York: Springer.
 * [Data carpentry introduction](/course_content_2022/files/Workshop - Week 2.pdf)  
 
 #### Video lectures
-* [DSM Workshop 2](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_2/Week_2_Workshop.mp4?csf=1&web=1&e=wxBlaI)
+* [DSM Workshop 2 part 1](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/Eem7ICLTFstHli60fqxeYZAB7LxvWpke8WyWcUshLZ-eDw?e=hdEJkH)
 
+* [DSM Workshop 2 part 2](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EfuDCqWAKJZGsF3lb79HEx4BPvdtREJw1i_U6PwZzP5pKw?e=onaKxQ)
 
+* [DSM Workshop 2 Data types](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EZOh3sf1wlNCiyCHVcdlCH4BTNx9E0QFyRjRQ4_3E1otZA?e=P1EcJj)
 
 <p>&nbsp;</p>
 
