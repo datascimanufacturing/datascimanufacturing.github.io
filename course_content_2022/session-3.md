@@ -23,7 +23,7 @@ back to [course content](index#course_organisation)
 * [Product Lifecycle / Material Flow](/course_content_2022/files/Data_Science_in_Manufacturing-Week_3.pdf)  
 
 #### Video lectures
-* [DSM Lecture 3](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_3/Week_3_Lecture.mp4?csf=1&web=1&e=7rgcbT)
+* [DSM Lecture 3](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EWx9lQNEMzpEuZj4eEalpA0BpqEmjdpizN6c2zTp7W42mg?e=aOjJxM)
 
 <br />
 
@@ -96,18 +96,18 @@ Sas.com. n.d. What is data mining?. [online](https://www.sas.com/en_sg/insights/
 
 <p>&nbsp;</p>
 
-### Workshop 3, session 2  (60min)
+<!-- ### Workshop 3, session 2  (60min)
 
 * Git introduction
     * Git modify-add-commit cycle 
-    * Git push
+    * Git push 
 
 ### Slides
-* [GIT](files/Workshop-Week_3.pdf)  
+* [GIT](files/Workshop-Week_3.pdf)  -->
 
 #### Video lectures
-* [DSM Workshop 3-Data carpentry practical exercise]()
-* [GIT](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_3/Week_3_Workshop_GIT.mp4?csf=1&web=1&e=lBvBGO)
+* [DSM Workshop 3-Data carpentry practical exercise](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EdxlznJHTMBElMTKU0yUrwIBgFPxlfPDin63EhkqMzAy5w?e=X7utmc)
+<!-- * [GIT]() -->
 
 <p>&nbsp;</p>
 
