@@ -20,7 +20,7 @@ back to [course content](index#course_organisation)
 * [Machine Learning and Artificial Intelligence (ML/AI)](/course_content_2022/files/)  
 
 #### Video lectures
-* [DSM Lecture 6]([https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_7/Week_7_Lecture.mp4?csf=1&web=1&e=GmADB2](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EfRF9-q3LDRCpp4j2IaozXYBDOLAtQ7pzbiL94NZD8eKFw?e=58LdBC)
+* [DSM Lecture 6](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EfRF9-q3LDRCpp4j2IaozXYBDOLAtQ7pzbiL94NZD8eKFw?e=58LdBC)
 
 <br />
 
