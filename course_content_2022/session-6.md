@@ -17,7 +17,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Machine Learning and Artificial Intelligence (ML/AI)](/course_content_2022/files/)  
+* [Machine Learning and Artificial Intelligence (ML/AI)](/course_content_2022/files/Data_Science_in_Manufacturing-Week_7ML1.pdf)  
 
 #### Video lectures
 * [DSM Lecture 6](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EfRF9-q3LDRCpp4j2IaozXYBDOLAtQ7pzbiL94NZD8eKFw?e=58LdBC)
@@ -49,7 +49,7 @@ back to [course content](index#course_organisation)
 ### Workshop 6  (60min)
 
 ### Slides
-* [GIT](files/Workshop-Week_3.pdf)  
+* [GIT](files/Workshop - Week 6 - Git.pdf)  
 
 
 ### Video
