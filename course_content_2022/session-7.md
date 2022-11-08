@@ -19,7 +19,7 @@ back to [course content](index#course_organisation)
 
 ### Slides
 * [Guest lecture](/course_content_2022/files/Data Science Lecture input I4-thical 20220311.pptx)  
-* [Supervised Learning](/course_content_2022/Workshop - Week 7-1.pdf )
+* [Supervised Learning](/course_content_2022/files/Workshop - Week 7-1.pdf )
 
 #### Video lectures
 * [DSM Guest Lecture](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EWcBZBiNQn9KuxG8Dft2LiUBSEWG-IVCf4XfC0mXnAxyDQ?e=5sV2EJ)
