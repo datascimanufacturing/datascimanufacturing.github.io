@@ -82,8 +82,8 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 | 3 | Oct 7  | <a href="session-3#lecture">Product Lifecycle / Material Flow</a>  |  <a href="session-3#workshop">Data carpentry and data cleaning</a> |  A.Sherlock, D. Korre  |
 | 4 | Oct 14  | <a href="session-4#lecture">Data visualisation and Exploratory Data Analysis</a>  | <a href="session-4#workshop">Data Visualisation and Exploratory Data Analysis</a>  |  A.Sherlock, D. Korre  |   
 | 5 | Oct 21  | <a href="session-5#lecture">Current Manufacturing Software / PLM / ERP /MES</a>  |  <a href="session-5#workshop">Data Representation / Relational databases</a> |  A.Sherlock, D. Korre  |
-| 6 | Oct 28  | Guest Lecture  | Project feedback and resources  | A.Sherlock, D. Korre  |    
-| 7 | Nov 4  | Machine Learning and Artificial Intelligence (ML/AI)  | Machine Learning & prediction analytics (Supervised Learning)   | A.Sherlock, D. Korre  |   
+| 6 | Oct 28  | <a href="session-6#lecture">Machine Learning and Artificial Intelligence (ML/AI)</a>  | <a href="session-6#workshop">Project feedback and resources</a>  | A.Sherlock, D. Korre  |     
+| 7 | Nov 4  | <a href="session-7#lecture">Guest Lecture</a>  | <a href="session-7#workshop">Machine Learning & prediction analytics (Supervised Learning)</a>  | A.Sherlock, D. Korre  |   
 | 8 | Nov 11  | Asset Management / IoT  | Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)  | A.Sherlock, D. Korre   |   
 | 9 | Nov 18  | EBoM / MBoM / Geometry / Time Series| Machine Learning and Visual Exercise (Data mining factory data)  |  A.Sherlock, D. Korre  | 
 | 10 | Nov 25  | Data for Industry 4 / New Business Models/Digital Twin / Thread |  Presenting Information  | A.Sherlock, D. Korre   | 
