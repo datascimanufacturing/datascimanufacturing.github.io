@@ -53,7 +53,7 @@ back to [course content](index#course_organisation)
 
 
 ### Video
-* [GIT](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EVK3tPywWBRMqlaDzHV3ISIBznF56va7JYqJiog4-eQt8A?e=xqVjes)
+* [GIT](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EfHzB_ZoetxNvGNjVzZiWVYBpVBsT-nil_xFeYB-_U2Kng?e=kTbP2V)
 
 
 #### Cheatsheets
