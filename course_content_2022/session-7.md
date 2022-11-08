@@ -19,9 +19,11 @@ back to [course content](index#course_organisation)
 
 ### Slides
 * [Guest lecture](/course_content_2022/files/Data Science Lecture input I4-thical 20220311.pptx)  
+* [Supervised Learning]()
 
 #### Video lectures
-* [DSM Guest Lecture](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_6/Week_6_Guest_Lecture.mp4?csf=1&web=1&e=sYnHaR)
+* [DSM Guest Lecture](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EWcBZBiNQn9KuxG8Dft2LiUBSEWG-IVCf4XfC0mXnAxyDQ?e=5sV2EJ)
+* [Supervised Learning](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/Ed6j11zQVQxMgqDy9j4FWbYBn7q6h5UTElytowD-XXGr-g?e=RLfDfK)
 
 <br />
 
@@ -69,7 +71,7 @@ Dr Kendra Briken is a Senior lecturer at Strathclyde Business School. She is tra
 * Machine Learning Introduction with Python
 
 #### Video lectures
-* [DSM Workshop 7](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_7/Week_7_Workshop.mp4?csf=1&web=1&e=bz67sp)
+* [DSM Workshop 7](https://uoe.sharepoint.com/:v:/r/sites/DS4M9-2022/Shared%20Documents/General/Recordings/Week_7/DSM_Workshop_week_7.mp4?csf=1&web=1&e=pLIseq)
 
 <p>&nbsp;</p>
 
