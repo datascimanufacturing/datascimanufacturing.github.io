@@ -1,7 +1,7 @@
 back to [course content](index#course_organisation)
 
 
-# Week 6, Session 1: Machine Learning and Artificial Intelligence (ML/AI)
+# Week 6, Session 1: Machine Learning and Artificial Intelligence (ML/AI) and GIT
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>
@@ -20,7 +20,7 @@ back to [course content](index#course_organisation)
 * [Machine Learning and Artificial Intelligence (ML/AI)](/course_content_2022/files/)  
 
 #### Video lectures
-* [DSM Lecture 6](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_7/Week_7_Lecture.mp4?csf=1&web=1&e=GmADB2)
+* [DSM Lecture 6]([https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_7/Week_7_Lecture.mp4?csf=1&web=1&e=GmADB2](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EfRF9-q3LDRCpp4j2IaozXYBDOLAtQ7pzbiL94NZD8eKFw?e=58LdBC))
 
 <br />
 
@@ -47,6 +47,21 @@ back to [course content](index#course_organisation)
 
 <a name = "workshop"></a>
 ### Workshop 6  (60min)
+
+### Slides
+* [GIT](files/Workshop-Week_3.pdf)  
+
+
+### Video
+* [GIT](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EVK3tPywWBRMqlaDzHV3ISIBznF56va7JYqJiog4-eQt8A?e=xqVjes)
+
+
+#### Cheatsheets
+
+* [Git Cheat Sheets](https://training.github.com/)
+* [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=index;)
+* [Open Scientific Code using Git and GitHub](https://open-source-for-researchers.github.io/open-source-workshop/)
+* [GIT cheat sheet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjo-6u-qt31AhXtQ0EAHZ45AJEQFnoECAYQAQ&url=https%3A%2F%2Feducation.github.com%2Fgit-cheat-sheet-education.pdf&usg=AOvVaw2D3W2R0fwoOBi8YrhZYLFJ)
 
 * Project feedback
 
