@@ -73,7 +73,7 @@ back to [index](index#course_organisation)
 #### Acknowledgements:
 
 The workshops contain material from:
-* 
+* Sai Rohith, M. (2022) Productivity prediction of employees using machine learning python, Towards AI. Available at: https://towardsai.net/p/l/productivity-prediction-of-employees-using-machine-learning-python (Accessed: November 15, 2022). 
 
 ***
 
