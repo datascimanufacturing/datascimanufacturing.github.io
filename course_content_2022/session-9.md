@@ -29,11 +29,12 @@ back to [course content](index#course_organisation)
 
   
 <a name = "reading"></a>
+#### Reading list and resources 
 
-<!-- #### Reading list and resources 
 
+* Imran, A. A., Amin, M. N., Islam Rifat, M. R., & Mehreen, S. (2019). Deep Neural Network Approach for Predicting the Productivity of Garment Employees. 2019 6th International Conference on Control, Decision and Information Technologies (CoDIT). [Web Link]
 
-* 
+* Rahim, M. S., Imran, A. A., & Ahmed, T. (2021). Mining the Productivity Data of Garment Industry. International Journal of Business Intelligence and Data Mining, 1(1), 1. [Web Link]
 
 
 #### Links
