@@ -59,6 +59,7 @@ World Economic Forum, 2021. [online] Www3.weforum.org. Available at: https://www
 
 * [Lasso Regression](https://vitalflux.com/lasso-ridge-regression-explained-with-python-example/)
 * [Cross-validation: evaluating estimator performance](https://scikit-learn.org/stable/modules/cross_validation.html)
+* [OLS and R2](https://www.bmc.com/blogs/mean-squared-error-r2-and-variance-in-regression-analysis/)
 
 
 #### Video resources
