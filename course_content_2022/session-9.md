@@ -1,7 +1,7 @@
 back to [course content](index#course_organisation)
 
 
-# Week 8, Session 1: Asset Management / IoT
+# Week 9, Session 1: Asset Management / IoT
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>
@@ -17,11 +17,11 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Asset Management / IoT](/course_content_2022/files/Data_Science_in_Manufacturing-Week_8.pdf)  
+* [Asset Management / IoT](/course_content_2022/files/)  
 
 #### Video lectures
-* [DSM Lecture 8](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_8/Week_8_Lecture.mp4?csf=1&web=1&e=RMNkva)
-* Q&A in the Teams group folder for Week 8
+* [DSM Lecture 9](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EUkJs0EZj9FMv40sGR_uCaMBWRVmRvbyK2r6-BmeR7Y_iw?e=kvvFJM)
+
 
 <br />
 
@@ -74,13 +74,13 @@ World Economic Forum, 2021. [online] Www3.weforum.org. Available at: https://www
 # Workshop
 
 <a name = "workshop"></a>
-### Workshop 8  (120min)
+### Workshop 9  (120min)
 
 * Jupyter Notebooks and Machine Learning 
  
 
 #### Video workshop
-* [DSM Workshop 8-Jupyter Notebooks and Machine Learning]https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_8/Week_8_Workshop.mp4?csf=1&web=1&e=vTs5V0)
+* [DSM Workshop 9-Jupyter Notebooks and Machine Learning](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EQ8StQsB1CBIqZGIVyGd4woBdumoy9aGui4xE4z2r0WOOA?e=gfnpen)
 
 <p>&nbsp;</p>
 
