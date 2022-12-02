@@ -1,17 +1,14 @@
 back to [course content](index#course_organisation)
 
 
-# Week 9, Session : EBoM / MBoM / Geometry / Time Series
+# Week 8, Session 1: Asset Management / IoT
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>
 
 #### Session topics
 
-* EBoM
-* MBoM
-* Geometry
-* Time Series
+* Asset Management / IoT
 
 <p>&nbsp;</p>
 
@@ -20,14 +17,17 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [EBoM / MBoM / Geometry / Time Series](/course_content_2022/files/Data_Science_in_Manufacturing-Week_9.pdf)  
+* [Asset Management / IoT](/course_content_2022/files/Data_Science_in_Manufacturing-Week_8.pdf)  
 
 #### Video lectures
-* [DSM Lecture 9](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_9/Week_9_Lecture.mp4?csf=1&web=1&e=ooN3A9)
+* [DSM Lecture 8](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_8/Week_8_Lecture.mp4?csf=1&web=1&e=RMNkva)
+* Q&A in the Teams group folder for Week 8
 
 <br />
 
-asset mng
+  
+<a name = "reading"></a>
+
 #### Reading list and resources 
 
 
@@ -59,37 +59,11 @@ World Economic Forum, 2021. [online] Www3.weforum.org. Available at: https://www
 
 * [Lasso Regression](https://vitalflux.com/lasso-ridge-regression-explained-with-python-example/)
 * [Cross-validation: evaluating estimator performance](https://scikit-learn.org/stable/modules/cross_validation.html)
-* [OLS and R2](https://www.bmc.com/blogs/mean-squared-error-r2-and-variance-in-regression-analysis/)
 
 
 #### Video resources
 
-1. [The Elements of Strategic Asset Mgt overview](https://www.youtube.com/watch?v=_emDnYaVo0g) end of asset mng
-  
-<a name = "reading"></a>
-#### Reading list and resources 
-
-
-* Imran, A. A., Amin, M. N., Islam Rifat, M. R., & Mehreen, S. (2019). Deep Neural Network Approach for Predicting the Productivity of Garment Employees. 2019 6th International Conference on Control, Decision and Information Technologies (CoDIT). [Web Link]
-
-* Rahim, M. S., Imran, A. A., & Ahmed, T. (2021). Mining the Productivity Data of Garment Industry. International Journal of Business Intelligence and Data Mining, 1(1), 1. [Web Link]
-* D’Agostino, R. B. (1971), “An omnibus test of normality for moderate and large sample size”, Biometrika, 58, 341-348
-* D’Agostino, R. and Pearson, E. S. (1973), “Tests for departure from normality”, Biometrika, 60, 613-622
-
-
-
-#### Links
-
-* 
-
-#### Cheatsheets
-
-* 
-
-#### Video resources
-
-1. -->
-
+1. [The Elements of Strategic Asset Mgt overview](https://www.youtube.com/watch?v=_emDnYaVo0g)
 
 
 <p>&nbsp;</p>
@@ -100,9 +74,13 @@ World Economic Forum, 2021. [online] Www3.weforum.org. Available at: https://www
 # Workshop
 
 <a name = "workshop"></a>
-### Workshop 9  (120min)
+### Workshop 8  (120min)
 
-* Jupyter Notebooks and Machine Learning clinics
+* Jupyter Notebooks and Machine Learning 
+ 
+
+#### Video workshop
+* [DSM Workshop 8-Jupyter Notebooks and Machine Learning]https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_8/Week_8_Workshop.mp4?csf=1&web=1&e=vTs5V0)
 
 <p>&nbsp;</p>
 
@@ -115,7 +93,12 @@ back to [index](index#course_organisation)
 #### Acknowledgements:
 
 The workshops contain material from:
-* Sai Rohith, M. (2022) Productivity prediction of employees using machine learning python, Towards AI. Available at: https://towardsai.net/p/l/productivity-prediction-of-employees-using-machine-learning-python (Accessed: November 15, 2022). 
+* Boston Housing Regression Analysis by tolgahancepel 
+* Split Your Dataset With scikit-learn's train_test_split() by Mirko Stojiljković 
+* Clustering Based Unsupervised Learning by Syed Sadat Nazrul
+* How to visualize a single Decision Tree from the Random Forest in Scikit-Learn (Python)? by Piotr Płoński
+* Machine Learning Exercise by Bulent Siyah
+* Data Visualisation, Benjamin Bach, University of Edinburgh
 
 ***
 
