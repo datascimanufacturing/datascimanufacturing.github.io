@@ -24,7 +24,7 @@ back to [course content](index#course_organisation)
 * [EBoM / MBoM / Geometry / Time Series](/course_content_2022/files/Data_Science_in_Manufacturing-Week_10.pdf )  
 
 #### Video lectures
-* [DSM Lecture 9](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EUDZRhM-sNxNsMZJwX_jafIBQxOH7x73c3LhtVuzv_hf7A?e=zOftXn)
+* [DSM Lecture 10](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EUDZRhM-sNxNsMZJwX_jafIBQxOH7x73c3LhtVuzv_hf7A?e=zOftXn)
 
 <br />
 
@@ -79,7 +79,7 @@ World Economic Forum, 2021. [online] Www3.weforum.org. Available at: https://www
 
 
 
-#### Links
+<!-- #### Links
 
 * 
 
