@@ -85,8 +85,9 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 | 6 | Oct 28  | <a href="session-6#lecture">Machine Learning and Artificial Intelligence (ML/AI) - Supervised Learning </a>  | <a href="session-6#workshop">Project feedback and resources</a>  | A.Sherlock, D. Korre  |     
 | 7 | Nov 4  | <a href="session-7#lecture">Guest Lecture</a>  | <a href="session-7#workshop">Machine Learning & prediction analytics (Supervised Learning)</a>  | A.Sherlock, D. Korre  |   
 | 8 | Nov 11  | <a href="session-8#lecture">Machine Learning and Artificial Intelligence (ML/AI) - Unsupervised Learning </a>  | <a href="session-8#workshop">Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)</a>  | J. Corney  |   
-| 9 | Nov 18  | EBoM / MBoM / Geometry / Time Series| Machine Learning and Visual Exercise (Data mining factory data)  |  A.Sherlock, D. Korre  | 
-| 10 | Nov 25  | Data for Industry 4 / New Business Models/Digital Twin / Thread |  Presenting Information  | A.Sherlock, D. Korre   | 
+| 9 | Nov 18  | <a href="session-9#lecture">Asset Management / IoT</a>  | <a href="session-9#workshop">Machine Learning & prediction analytics </a>  | A.Sherlock, D. Korre   |   
+| 10 | Nov 25  |  <a href="session-10#lecture">EBoM / MBoM / Geometry / Time Series</a> | <a href="session-10#workshop">Machine Learning and Visual Exercise (Data mining factory data)</a>  |  A.Sherlock, D. Korre  | 
+EBoM / MBoM / Geometry / Time Series| Machine Learning and Visual Exercise (Data mining factory data)  |  A.Sherlock, D. Korre  | 
 |  | Dec 02  |   | <a href="assessment">Assessment</a> |  |   
 |  |   | <a href="guest">Guest Lecture: Data driven Manufacturing (DDM)</a> |  Clinics  | A.Sherlock, D. Korre   |   
 |  |  | [Guest Lectures](guest.md) | |
