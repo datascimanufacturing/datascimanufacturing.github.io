@@ -17,7 +17,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Asset Management / IoT](/course_content_2022/files/)  
+* [Asset Management / IoT](/course_content_2022/files/Data_Science_in_Manufacturing-Week_9_new.pdf)  
 
 #### Video lectures
 * [DSM Lecture 9](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EUkJs0EZj9FMv40sGR_uCaMBWRVmRvbyK2r6-BmeR7Y_iw?e=kvvFJM)
