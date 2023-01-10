@@ -13,7 +13,7 @@ Each week has a [topic](#course_organisation). All of that written below is opti
 
 * attend an open discussion and Q&A on the previous week's topic (usually for the first 1/2 hour on Friday morning). We may also have guest speakers during this time. (~1h)
 * attend the week's lecture (or watch the recording) usually at 09:00 on the Friday (~1h)
-* participate in the workshop/tutorial in person and/or on **[Teams](https://teams.microsoft.com/l/meetup-join/19%3a-aesL4IX5XwKnSO79A5huVLtkWMnWwecRRObf7NBIuM1%40thread.tacv2/1643816881182?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2269a6ec46-60d9-4c4e-99e5-c8561f10dbfb%22%7d)** (2h). <!--There is a channel for each tutorial group A and B. --> Sessions are recorded (recordings will automatially appear in the channel);
+* participate in the workshop/tutorial in person and/or on **[Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODVhZjcwY2UtYWY3Ny00MmU1LTk0ZTQtOTg3ZDAwNDU1ZTEw%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2269a6ec46-60d9-4c4e-99e5-c8561f10dbfb%22%7d)** (2h). <!--There is a channel for each tutorial group A and B. --> Sessions are recorded (recordings will automatially appear in the channel);
 <!--* submit the week's quizzes via Teams and check your answers against the sample solutions (provided after submission) (~1h) -->
 * browse any recommended reading material (~1h)
 * attend the Q&A sessions in the dedicated channel in person and/or on Teams. Q&A sessions are also recorded.
@@ -35,7 +35,7 @@ This *[video](https://youtu.be/b1eEPp5VSIY)* gives a good overview of why to kee
 
 Resources you may need during the course. 
 
-* **[Teams](https://teams.microsoft.com/l/team/19%3a-aesL4IX5XwKnSO79A5huVLtkWMnWwecRRObf7NBIuM1%40thread.tacv2/conversations?groupId=121ee619-178b-40e5-8506-530415970cd0&tenantId=2e9f06b0-1669-4589-8789-10a06934dc61):** **note** you must be logged in to your Office365 account for this course for this link to work.   
+* **[Teams]([https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6867286_1&course_id=_91471_1](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODVhZjcwY2UtYWY3Ny00MmU1LTk0ZTQtOTg3ZDAwNDU1ZTEw%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2269a6ec46-60d9-4c4e-99e5-c8561f10dbfb%22%7d)):** **note** you must be logged in to your Office365 account for this course for this link to work.   
 * **[Learn VLE](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6867286_1&course_id=_91471_1)**: **note** you must be logged in to the university for this link to work.
 <!-- * **[Book 1-on-1](https://datavisonline.youcanbook.me)**. The booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available -->
 
@@ -77,20 +77,19 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 
 |  Week | Date | Lecture | Workshop/ Tutorial  | Teaching  |    
 |---|---|---|---|---|---|
-| 1 |  Sep 22 | <a href="session-1#lecture">Introduction and Foundations</a> | <a href="session-1#workshop">Intro to Python programming and Jupyter Notebooks</a>  | A.Sherlock, D. Korre  |  
-| 2 | Sep 30  | <a href="session-2#lecture">Data Carpentry</a> |  <a href="session-2#workshop">Intro to Python and Data carpentry</a> |  A.Sherlock, D. Korre  | 
-| 3 | Oct 7  | <a href="session-3#lecture">Product Lifecycle / Material Flow</a>  |  <a href="session-3#workshop">Data carpentry and data cleaning</a> |  A.Sherlock, D. Korre  |
-| 4 | Oct 14  | <a href="session-4#lecture">Data visualisation and Exploratory Data Analysis</a>  | <a href="session-4#workshop">Data Visualisation and Exploratory Data Analysis</a>  |  A.Sherlock, D. Korre  |   
-| 5 | Oct 21  | <a href="session-5#lecture">Current Manufacturing Software / PLM / ERP /MES</a>  |  <a href="session-5#workshop">Data Representation / Relational databases</a> |  A.Sherlock, D. Korre  |
-| 6 | Oct 28  | <a href="session-6#lecture">Machine Learning and Artificial Intelligence (ML/AI) - Supervised Learning </a>  | <a href="session-6#workshop">Project feedback and resources</a>  | A.Sherlock, D. Korre  |     
-| 7 | Nov 4  | <a href="session-7#lecture">Guest Lecture</a>  | <a href="session-7#workshop">Machine Learning & prediction analytics (Supervised Learning)</a>  | A.Sherlock, D. Korre  |   
-| 8 | Nov 11  | <a href="session-8#lecture">Machine Learning and Artificial Intelligence (ML/AI) - Unsupervised Learning </a>  | <a href="session-8#workshop">Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)</a>  | J. Corney  |   
-| 9 | Nov 18  | <a href="session-9#lecture">Asset Management / IoT</a>  | <a href="session-9#workshop">Machine Learning & prediction analytics (Data mining factory data) </a>  | A.Sherlock, D. Korre   |   
-| 10 | Nov 25  |  <a href="session_10#lecture">EBoM / MBoM / Geometry / Time Series</a> | <a href="session_10#workshop">Machine Learning and Visual Exercise - Python Libraries and functionality for working with 3D models </a>  |  A.Sherlock, D. Korre  | 
-EBoM / MBoM / Geometry / Time Series| Machine Learning and Visual Exercise (Data mining factory data)  |  A.Sherlock, D. Korre  | 
-|  | Dec 02  |   | <a href="assessment">Assessment</a> |  |   
-|  |   | <a href="guest">Guest Lecture: Data driven Manufacturing (DDM)</a> |  Clinics  | A.Sherlock, D. Korre   |   
-|  |  | [Guest Lectures](guest.md) | |
+| 1 |  Jan 27 | <a href="session-1#lecture">Introduction and Foundations</a> | <a href="session-1#workshop">Intro to Python programming and Jupyter Notebooks</a>  | A.Sherlock, D. Korre  |  
+| 2 | Feb 03  | Data Carpentry |  Intro to Python and Data carpentry |  A.Sherlock, D. Korre  |   
+| 3 | Feb 10  | Product Lifecycle / Material Flow  |  Data carpentry and data cleaning |  A.Sherlock, D. Korre  |   
+| 4 | Feb 17  |Data visualisation and Exploratory Data Analysis  | Data Visualisation and Exploratory Data Analysis |  A.Sherlock, D. Korre  |   
+| 5 | Feb 24  | Current Manufacturing Software / PLM / ERP /MES  |  Data Representation / Relational databases< |  A.Sherlock, D. Korre  |
+| 6 | Mar 03  | Guest Lecture  | Project feedback and resources  | A.Sherlock, D. Korre  |    
+| 7 | Mar 10 | Machine Learning and Artificial Intelligence (ML/AI)  | Machine Learning & prediction analytics (Supervised Learning)   | A.Sherlock, D. Korre  |   
+| 8 | Mar 17  | Asset Management / IoT  | Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)  | A.Sherlock, D. Korre   |   
+| 9 | Mar 24  | EBoM / MBoM / Geometry / Time Series | Machine Learning and Visual Exercise (Data mining factory data)  |  A.Sherlock, D. Korre  | 
+| 10 | Mar 31  | Data for Industry 4 / New Business Models/Digital Twin / Thread |  Presenting Information  | A.Sherlock, D. Korre   | 
+|  | Apr  |   | <a href="assessment">Assessment</a> |  |   
+|  |   | Guest Lecture: Data driven Manufacturing (DDM) |  Clinics  | A.Sherlock, D. Korre   |   
+|  |  | [Guest Lectures](guest.mdf) | |
 
 
 
