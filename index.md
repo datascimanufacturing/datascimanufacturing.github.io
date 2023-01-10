@@ -2,7 +2,7 @@
 
 ![teaser](images/teaserdsm.png)
 
-The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2022 from __September 23nd - December 2nd (10 weeks)__ and is dedicated to professionals in---among others---the manufacturing sector.
+The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2023 from __Jan 27th - March 31st (10 weeks)__ and is dedicated to professionals in---among others---the manufacturing sector.
 
 Assuming students are familiar with the processes commonly used to organise and undertake engineering manufacture this online course teaches:
 
@@ -59,16 +59,16 @@ Browse further detail on the __[course structure](organisation.md)__.
 
 <!-- ## Focus Groups -->
 
-## [Submit Application]([https://forms.office.com/r/XEeRkw7pJm](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYSh2MWKVoxpLrG5A3l7A6AdURUY2WE84QVJPUEJIVFNWVFE0V043TjhDMy4u))
+## [Submit Application]([https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYSh2MWKVoxpLrG5A3l7A6AdUNzFSMlNFVDVZOUdBNzNMNUU0QTEzTDRYRy4u]))
 
 <!-- Applications are now being accepted for the course. Please note that you **must** state that you are registering for the course ***Data Science for Manufacturing*** in the "Supporting Statement" section of the [application form](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=1002). -->
 
 
 ## Course Delivery Information
-* Start Date: __23 September 2022__
+* Start Date: __27 January 2023__
 * Course Duration: __10 weeks__, complementing self-directed online and on site learning with one hands-on session per week via a virtual classroom, in addition to a Q&amp;A session to discuss lectures and corresponding exercises 
 * Total Hours: __50-100hrs__ (Lecture Hours 9; Workshop tutorial Hours 18; Independent Study Hours 30-73) 
 * Weekly investment: __5-10hrs__, including lectures, workshop tutorials, reading, Q&As, project work.
-* Weekly lectures will take place on __Fridays, 9am – 10am__ followed by a computer-based workshop __10am to 12noon__. There will be a weekly drop-in clinic on __Wednesdays, 7pm – 8pm__.  
+* Weekly lectures will take place on __Fridays, 9am – 10am__ followed by a computer-based workshop __10am to 12noon__. There will be a drop-in clinic when needed on __Thursdays, 7pm – 8pm__.  
 * Method of Assessment: __Coursework 100%__, including submission of a final project based on an industrial dataset (which optionally can be related to the current employer of students, NDAs could be signed).  
 * Assessment information: Written Exam 0%, Coursework 100%, Practical Exam 0%. Weekly check-ins of the proposed project in the clinics. You will receive one-on-one and detailed written feedback on your project.
