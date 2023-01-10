@@ -59,7 +59,7 @@ Browse further detail on the __[course structure](organisation.md)__.
 
 <!-- ## Focus Groups -->
 
-## [Submit Application]([https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYSh2MWKVoxpLrG5A3l7A6AdUNzFSMlNFVDVZOUdBNzNMNUU0QTEzTDRYRy4u])
+## [Submit Application](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYSh2MWKVoxpLrG5A3l7A6AdUNzFSMlNFVDVZOUdBNzNMNUU0QTEzTDRYRy4u)
 
 <!-- Applications are now being accepted for the course. Please note that you **must** state that you are registering for the course ***Data Science for Manufacturing*** in the "Supporting Statement" section of the [application form](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=1002). -->
 
