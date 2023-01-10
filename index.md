@@ -2,7 +2,7 @@
 
 ![teaser](images/teaserdsm.png)
 
-The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2023 from __Jan 27th - March 31st (10 weeks)__ and is dedicated to professionals in---among others---the manufacturing sector.
+The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2023 from __January 27th - March 31st (10 weeks)__ and is dedicated to professionals in---among others---the manufacturing sector.
 
 Assuming students are familiar with the processes commonly used to organise and undertake engineering manufacture this online course teaches:
 
@@ -30,8 +30,8 @@ It covers the fundamentals of:
 * __Introduce__ collaborative practices around data collection, analysis and presentation
 
 
-Meet the organizers and join our **[open info session on MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJjNDZjMGQtMWNiMC00ODYyLTliZGUtNDA0NmVmZjk4YTFm%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2269a6ec46-60d9-4c4e-99e5-c8561f10dbfb%22%7d)** (installed MS Teams application required). The session gives an overview over the course and the chance for prospective students to ask questions about the content and delivery of the course. Sessions times are 
-* Thursday, Sept 1st, 6-7pm, BST
+Meet the organizers and join our **[open info session on MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGNiMDI2ZTQtNmY4MS00MTMwLTk2NzUtN2RhMzllN2QwMzY2%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2269a6ec46-60d9-4c4e-99e5-c8561f10dbfb%22%7d)** (installed MS Teams application required). The session gives an overview over the course and the chance for prospective students to ask questions about the content and delivery of the course. Sessions times are 
+* Thursday, Jan 12th, 6-7pm, BST
 
 
 With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __tutorial workshops__, __drop-in sessions__,  __complementary online teaching material__, and __seminars by guest speakers__. More about the [course organisation](organisation.html) and its [schedule](content.html).
@@ -59,7 +59,7 @@ Browse further detail on the __[course structure](organisation.md)__.
 
 <!-- ## Focus Groups -->
 
-## [Submit Application]([https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYSh2MWKVoxpLrG5A3l7A6AdUNzFSMlNFVDVZOUdBNzNMNUU0QTEzTDRYRy4u]))
+## [Submit Application]([https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYSh2MWKVoxpLrG5A3l7A6AdUNzFSMlNFVDVZOUdBNzNMNUU0QTEzTDRYRy4u])
 
 <!-- Applications are now being accepted for the course. Please note that you **must** state that you are registering for the course ***Data Science for Manufacturing*** in the "Supporting Statement" section of the [application form](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=1002). -->
 
