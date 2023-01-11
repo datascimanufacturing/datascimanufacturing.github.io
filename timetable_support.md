@@ -17,10 +17,10 @@ Times below are UK times.
 | 4 | Feb 17  | Data visualisation and Exploratory Data Analysis  | Data Visualisation and Exploratory Data Analysis  |  A.Sherlock, D. Korre  |   
 | 5 | Feb 24  | Current Manufacturing Software / PLM / ERP /MES  |  Data Representation / Relational databases |  A.Sherlock, D. Korre  |
 | 6 | Mar 03  | Guest Lecture  | Project feedback and resources  | A.Sherlock, D. Korre  |    
-| 7 | Mar 10  | Machine Learning and Artificial Intelligence (ML/AI)  | Machine Learning & prediction analytics (Supervised Learning)   | A.Sherlock, D. Korre  |   
-| 8 | Mar 17  | Asset Management / IoT  | Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)  | A.Sherlock, D. Korre   |   
-| 9 | Mar 24 | EBoM / MBoM / Geometry / Time Series | Machine Learning and Visual Exercise (Data mining factory data)  |  A.Sherlock, D. Korre  | 
-| 10 | Mar 31  | Data for Industry 4 / New Business Models/Digital Twin / Thread |  Presenting Information  | A.Sherlock, D. Korre   |   
+| 7 | Mar 10  | Machine Learning and Artificial Intelligence (ML/AI) - Supervised Learning  | Machine Learning & prediction analytics (Supervised Learning)   | A.Sherlock, D. Korre  |   
+| 8 | Mar 17  | Machine Learning and Artificial Intelligence (ML/AI) - Unsupervised Learning | Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)  | A.Sherlock, D. Korre   |   
+| 9 | Mar 24  | Asset Management / IoT  | Machine Learning and Visual Exercise (Data mining factory data)  |  A.Sherlock, D. Korre  | 
+| 10 | Mar 31  | EBoM / MBoM / Geometry / Time Series |  Presenting Information  | A.Sherlock, D. Korre   | 
 |  | Apr  |   | Assessment |  |   
 
 
