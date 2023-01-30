@@ -23,7 +23,7 @@ back to [course content](index#course_organisation)
 * [Introduction to Data Science for Manufacturing](files/DSM-Week_1.pdf)  
 
 #### Video lectures
-* [DSM Lecture 1](https://uoe.sharepoint.com/:v:/r/sites/DS4M9-2022/Shared%20Documents/General/Recordings/Week_1/DSM_Lecture_Week-1.mp4?csf=1&web=1&e=TKxIqC)
+* [DSM Lecture 1](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/EaWAEFVy-l5Mo2PFJOpprfkBpcPkBfe_I9m5_sD8fbodrA?e=4HO7z4)
 
 <br />
 
@@ -73,7 +73,7 @@ back to [course content](index#course_organisation)
 * [Introduction to Python programming and Jupyter Notebooks](files/DSM_Workshop_Week 1.pdf)  
 
 #### Video lectures
-* [DSM Workshop 1](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/Edn2JEGbAxhHqyo_BJEZ5Q0BJk3uF1L6Z6o0B8c2RoDK_g?e=CGrlie)
+* [DSM Workshop 1](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/Ea4IBO-FcnFMqg1Lx36_Zy4Bjg-gUerli77h1TstIpzAgw?e=Canb8c)
 
 #### Cheatsheets
 
@@ -88,9 +88,6 @@ back to [course content](index#course_organisation)
 2. [Python Training Beginners - What is a Variable in Python](https://www.youtube.com/watch?v=T9un17BU3Z8)
 3. [Functions in Python - The Basics!](https://www.youtube.com/watch?v=K7ITBnN6FSg&list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J&index=31)
 
-
-[Link to workshop repository where you can get the notebooks and data](https://github.com/dsmanufacturing/Workshops/tree/main/Week_1)
-<p>&nbsp;</p>
 
 
 back to [index](index#course_organisation)
