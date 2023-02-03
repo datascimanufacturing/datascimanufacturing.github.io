@@ -105,6 +105,7 @@ Cios, K., 2010. Data mining. New York: Springer.
 1. [Python Tutorial: Generate Random Numbers and Data Using the random Module](https://www.youtube.com/watch?v=KzqSDvzOFNA)
 2. [Python Training Beginners - What is a Variable in Python](https://www.youtube.com/watch?v=T9un17BU3Z8)
 3. [Functions in Python - The Basics!](https://www.youtube.com/watch?v=K7ITBnN6FSg&list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J&index=31)
+4. [Functions in Python](https://www.youtube.com/watch?v=K7ITBnN6FSg&list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J&index=31)
 
 <p>&nbsp;</p>
 
