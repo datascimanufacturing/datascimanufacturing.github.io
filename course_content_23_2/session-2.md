@@ -103,7 +103,7 @@ Cios, K., 2010. Data mining. New York: Springer.
 #### Video resources
 
 1. [Python Tutorial: Generate Random Numbers and Data Using the random Module](https://www.youtube.com/watch?v=KzqSDvzOFNA)
-2. [Functions in Python](https://www.youtube.com/watch?v=K7ITBnN6FSg&list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J&index=31)
+2. [Functions in Python](https://www.youtube.com/watch?v=u-OmVr_fT4s)
 
 <p>&nbsp;</p>
 
