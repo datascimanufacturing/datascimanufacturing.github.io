@@ -23,7 +23,7 @@ back to [course content](index#course_organisation)
 * [Product Lifecycle / Material Flow](/course_content_2022/files/Data_Science_in_Manufacturing-Week_3.pdf)  
 
 #### Video lectures
-* [DSM Lecture 3](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EWx9lQNEMzpEuZj4eEalpA0BpqEmjdpizN6c2zTp7W42mg?e=aOjJxM)
+* [DSM Lecture 3](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/EbEg00ARo5dCp_Xi6S6ZiKwBlot2AbXIrKcc4y8JXvZcTg?e=2XfyTM)
 
 <br />
 
@@ -106,7 +106,7 @@ Sas.com. n.d. What is data mining?. [online](https://www.sas.com/en_sg/insights/
 * [GIT](files/Workshop-Week_3.pdf)  -->
 
 #### Video lectures
-* [DSM Workshop 3-Data carpentry practical exercise](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EdxlznJHTMBElMTKU0yUrwIBgFPxlfPDin63EhkqMzAy5w?e=X7utmc)
+* [DSM Workshop 3-Data carpentry practical exercise](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/EQpD80EKvQNGukVEHLq9MQIBKOnbbutnTuxFP-5eeWjP2Q?e=wbxulr)
 <!-- * [GIT]() -->
 
 <p>&nbsp;</p>
