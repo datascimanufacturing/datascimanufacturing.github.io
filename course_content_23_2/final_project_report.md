@@ -1,8 +1,8 @@
 # Project Report
 
-Your project report is a reflection on the visualisation process, and how you employed your project as a learning tool, to increase your visual literacy and acquire new, practical visualisation skills. 
+Your project report is a reflection on the process, and how you employed your project as a learning tool, to increase your data literacy and acquire new, practical data science skills. 
 
-Please use __minimum font size 11 and reasonable margins__ for written sections of your submission. <br /><br />
+<!-- Please use __minimum font size 11 and reasonable margins__ for written sections of your submission. <br /><br /> 
 
 In the final submission, please include the following items (1-4) as appendices to your report. Your report and all appendices __must be submitted as a single file__. 
 
@@ -22,21 +22,21 @@ In the final submission, please include the following items (1-4) as appendices 
         1. a sequence illustrating how a user would step through your solution
         1. detail, by drilling down from the overview, for one or two selected elements in your “story”, what you want to communicate to your target user(s)
 
-    * you may, especially if you have an interactive or a relatively complex solution, record a video (up to 90s) giving an overview of your solution.
+    * you may, especially if you have an interactive or a relatively complex solution, record a video (up to 90s) giving an overview of your solution. -->
 
 1. __Data__ 
     * description of your data and source/owner
         * metadata or other simple description of data content and structure (e.g., "_csv file containing 100 lines with 5 columns describing age, height ..., linked to secondary source ..._")
     * summary of the data exploration and pre-processing phase
-        * how you moved from source to the version you fed into your visualisation
+        * how you moved from source to the version you fed into your notebook
         * provide data snapshots to illustrate source to post processing (e.g., first, or random, three lines of a csv file highlighting key attributes/columns)
             * NOTE: mask/anonymise snapshot if necessary
         * list tool(s) used, using the tool matrix
 
-1. __Journal__
+<!-- 1. __Journal__
     * documenting the process you followed
     * you decide how to present this, but it should show, e.g., "...initial brief delivered, update to brief based on EDA, change in dataset due to X..."
-    * more detail if needed on your plan for future work
+    * more detail if needed on your plan for future work -->
     
 <p>&nbsp;</p>
 <a name = "report_"></a>
@@ -44,20 +44,18 @@ In the final submission, please include the following items (1-4) as appendices 
 ### Report Presentation
 
 * __Report length__
-    * __no more than 500 words, and must fit on a single side of A4 paper__
-      * keep descriptions brief and to the point; ideally, use bullet points
-
-    * each appendix that mirrors an assignment must conform to the submission instructions for the assignment in which it was specified 
-    * each appendix must be referenced within the main report
+    * keep descriptions brief and to the point; ideally, use bullet points
+   <!--  * each appendix that mirrors an assignment must conform to the submission instructions for the assignment in which it was specified 
+    * each appendix must be referenced within the main report -->
 
 * __Report Content__
     * your big question / challenge - one sentence or a couple of bullet points 
     * your (key/primary) target users (and environment if applicable)
       * _this should forward reference also to an appendix containing the final version of your brief_    
 
-   * annotated design sketches
+   <!-- * annotated design sketches
         * highlight which ideas you kept, which you rejected, and why. Justify your decisions using concepts from the lectures, any additional research and feedback from 
-      * _this should forward reference also to an appendix containing the final version of your design_     
+      * _this should forward reference also to an appendix containing the final version of your design_     -->
       
     * EDA and its impact on your plan
     
