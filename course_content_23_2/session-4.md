@@ -27,7 +27,7 @@ back to [course content](index#course_organisation)
 * [Exploratory Data Analysis and Data Visualisation](/course_content_2022/files/Data Science in Manufacturing - Week 4.pdf)  
 
 #### Video lectures
-* [DSM Lecture 4](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EUKlyoWW1hlNi6zavvqYlEcBrMhBJ2WS4rXW0329gBJotw?e=OQ3mVu)
+* [DSM Lecture 4](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/EfuXfcEtEiJNtbEjUysQYkkBLuleji0YlS7gqs7Ti1j-_g?e=2OQV4d)
 
 <br />
 
@@ -65,7 +65,8 @@ back to [course content](index#course_organisation)
 
 #### Links
 
-* [Python Graph Gallery](https://www.python-graph-gallery.com/correlogram/)
+* [Python Graph Gallery](https://www.python-graph-gallery.com/)
+* [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)
 * [Importance of Data Visualization — Anscombe’s Quartet Way](https://towardsdatascience.com/importance-of-data-visualization-anscombes-quartet-way-a325148b9fd2)
 * [Manufacturing data analytics with Python: A hands-on example](https://towardsdatascience.com/manufacturing-data-analytics-with-python-a-hands-on-example-6de8817a24dc)
 * [How to Leverage Data Visualization in Manufacturing?](https://www.sensrtrx.com/how-to-leverage-data-visualization-manufacturing/)
@@ -129,7 +130,7 @@ back to [course content](index#course_organisation)
 * This week doesn't have workshop slides.
 
 #### Video lectures
-* [DSM Workshop 4-EDA and data visualisation](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/ETC8hJQqYuxIswbA-vFdZ1EBIi0l1EVO_8ZpBJcIgUp0IA?e=j80VZ5)
+* [DSM Workshop 4-EDA and data visualisation]()
 
 
 <p>&nbsp;</p>
