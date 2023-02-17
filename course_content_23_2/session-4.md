@@ -130,7 +130,7 @@ back to [course content](index#course_organisation)
 * This week doesn't have workshop slides.
 
 #### Video lectures
-* [DSM Workshop 4-EDA and data visualisation]()
+* [DSM Workshop 4-EDA and data visualisation](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/EaomUnm0g89PitY4-s5d6VYBlDwKDPNjll1Z_PiYuwj94A?e=CVe2fi)
 
 
 <p>&nbsp;</p>
