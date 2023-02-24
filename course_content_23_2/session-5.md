@@ -59,6 +59,7 @@ Almada-Lobo, F., 2016. The Industry 4.0 revolution and the future of Manufacturi
 * [Programming Foundations: Databases](https://www.linkedin.com/learning-login/share?account=50251009&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-databases-2%3Ftrk%3Dshare_ent_url%26shareId%3DV2qyFOcVQvyGtLSj3iv8jA%253D%253D)
 * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 * [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
+* [SQL for data science](https://mode.com/sql-tutorial/introduction-to-sql/)
 
 
 <p>&nbsp;</p>
