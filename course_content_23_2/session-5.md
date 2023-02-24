@@ -23,7 +23,7 @@ back to [course content](index#course_organisation)
 * [PLM/ERP/MES/Relational Databases](/course_content_2022/files/Data_Science_in_Manufacturing-Week_5.pdf)  
 
 #### Video lectures
-* [DSM Lecture 5]()
+* [DSM Lecture 5](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/ES0blENoo7BEg25Z01exYQ8B2cyURifu2VkOK8wXnilapQ?e=si9kur)
 
 <br />
 
