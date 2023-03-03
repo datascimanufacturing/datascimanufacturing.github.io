@@ -82,7 +82,7 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 | 3 | Feb 10  | <a href="session-3#lecture">Product Lifecycle / Material Flow  </a>| <a href="session-3#workshop"> Data carpentry and data cleaning </a>|  A.Sherlock, D. Korre  |   
 | 4 | Feb 17  |<a href="session-4#lecture">Data visualisation and Exploratory Data Analysis</a>  | <a href="session-4#workshop">Data Visualisation and Exploratory Data Analysis</a> |  A.Sherlock, D. Korre  |   
 | 5 | Feb 24  | <a href="session-5#lecture">Current Manufacturing Software / PLM / ERP /MES </a> | <a href="session-5#workshop"> Data Representation / Relational databases</a> |  A.Sherlock, D. Korre  |
-| 6 | Mar 03  | Guest Lecture  | Project feedback and resources  | A.Sherlock, D. Korre  |    
+| 6 | Mar 03  |<a href="session-6#lecture"> GIT, Guest Lecture </a> | <a href="session-6#workshop"> GIT, Project feedback and resources </a>  | A.Sherlock, D. Korre  |    
 | 7 | Mar 10 | Machine Learning and Artificial Intelligence (ML/AI) - Supervised  | Machine Learning & prediction analytics (Supervised Learning)   | A.Sherlock, D. Korre  |   
 | 8 | Mar 17  | Machine Learning and Artificial Intelligence (ML/AI) - Unsupervised Learning | Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)  | A.Sherlock, D. Korre   |   
 | 9 | Mar 24  | Asset Management / IoT  | Machine Learning and Visual Exercise (Data mining factory data)  |  A.Sherlock, D. Korre  | 
