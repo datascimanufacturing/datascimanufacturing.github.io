@@ -45,7 +45,7 @@ Git   (60min)
 #### Links
 
 * [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=50251009)
-* [Guide to numpy types](https://betterprogramming.pub/a-comprehensive-guide-to-numpy-data-types-8f62cb57ea83)
+
 
 #### Cheatsheets
 
