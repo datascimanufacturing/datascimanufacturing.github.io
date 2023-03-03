@@ -41,8 +41,6 @@ Sas.com. n.d. What is data mining?. [online](https://www.sas.com/en_sg/insights/
 * [Best Practices in Data Cleaning by Jason Osborne](https://methods-sagepub-com.ezproxy.is.ed.ac.uk/book/best-practices-in-data-cleaning)
 * Data Wrangling with Python by Jacqueline Kazil
 * Feature Engineering by Max Kuhn
-* [Git](https://git-scm.com/book/en/v2)
-* Chacon, & Straub, B. (2014). Pro Git  by Scott Chacon, Ben Straub. (2nd ed. 2014.). Apress. https://doi.org/10.1007/978-1-4842-0076-6 [online](https://link.springer.com/content/pdf/10.1007%2F978-1-4842-0076-6.pdf)
 
 
 #### Links
@@ -53,7 +51,6 @@ Sas.com. n.d. What is data mining?. [online](https://www.sas.com/en_sg/insights/
 * [How To Group, Concatenate & Merge Data in Pandas](https://www.bmc.com/blogs/pandas-group-merge-concatenate-join/)
 * [Z-Score and How It’s Used to Determine an Outlier](https://medium.com/clarusway/z-score-and-how-its-used-to-determine-an-outlier-642110f3b482)
 * [Z score for Outlier Detection – Python](https://www.geeksforgeeks.org/z-score-for-outlier-detection-python/)
-* [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=50251009)
 * [Guide to numpy types](https://betterprogramming.pub/a-comprehensive-guide-to-numpy-data-types-8f62cb57ea83)
 
 #### Cheatsheets
