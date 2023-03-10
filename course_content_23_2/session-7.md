@@ -18,7 +18,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Supervised Learning](/course_content_23_2/files/ Data_Science_in_Manufacturing-Week_7_updated-2023.pdf)
+* [Supervised Learning](/course_content_23_2/files/Data_Science_in_Manufacturing-Week_7_updated-2023.pdf)
 
 #### Video lectures
 
