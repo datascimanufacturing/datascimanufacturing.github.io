@@ -18,23 +18,16 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Guest lecture](/course_content_2022/files/Data Science Lecture input I4-thical 20220311.pptx)  
-* [Supervised Learning](/course_content_2022/files/Workshop - Week 7-1.pdf )
+* [Supervised Learning](/course_content_23_2/files/ )
 
 #### Video lectures
-* [DSM Guest Lecture](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EWcBZBiNQn9KuxG8Dft2LiUBSEWG-IVCf4XfC0mXnAxyDQ?e=5sV2EJ)
-* [Supervised Learning](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/Ed6j11zQVQxMgqDy9j4FWbYBn7q6h5UTElytowD-XXGr-g?e=RLfDfK)
+
+* [Supervised Learning]()
 
 <br />
 
   
 <a name = "reading"></a>
-
-#### Speaker bios 
-
-[Personal page](https://www.strath.ac.uk/staff/brikenkendradr/)
-
-Dr Kendra Briken is a Senior lecturer at Strathclyde Business School. She is trained in industrial sociology and has been working in the field of technology and organisation for over 25 years. Since September 2021, she is Associate Fellow for the Digital Futures at Work Research Centre (Sussex & Leeds University). She has broad empirical experience in the field of digital technologies, and the impacts on organizational change on workplaces.
 
 
 
@@ -71,7 +64,7 @@ Dr Kendra Briken is a Senior lecturer at Strathclyde Business School. She is tra
 * Machine Learning Introduction with Python
 
 #### Video lectures
-* [DSM Workshop 7](https://uoe.sharepoint.com/:v:/r/sites/DS4M9-2022/Shared%20Documents/General/Recordings/Week_7/DSM_Workshop_week_7.mp4?csf=1&web=1&e=pLIseq)
+* [DSM Workshop 7]()
 
 <p>&nbsp;</p>
 
