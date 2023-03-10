@@ -1,7 +1,7 @@
 back to [course content](index#course_organisation)
 
 
-# Week 7, Session 1: Project feedback and guest lecture by Dr Kendra Briken 
+# Week 7, Session 1: MAchine learning - supervised learning
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>
