@@ -1,7 +1,7 @@
 back to [course content](index#course_organisation)
 
 
-# Week 3, Session 1: Git
+# Week 6, Session 1: Git
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>
