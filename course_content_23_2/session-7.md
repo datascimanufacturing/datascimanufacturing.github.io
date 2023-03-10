@@ -1,7 +1,7 @@
 back to [course content](index#course_organisation)
 
 
-# Week 7, Session 1: MAchine learning - supervised learning
+# Week 7, Session 1: Machine learning - supervised learning
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>
