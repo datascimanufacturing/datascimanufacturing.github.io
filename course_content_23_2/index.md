@@ -84,7 +84,7 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 | 5 | Feb 24  | <a href="session-5#lecture">Current Manufacturing Software / PLM / ERP /MES </a> | <a href="session-5#workshop"> Data Representation / Relational databases</a> |  A.Sherlock, D. Korre  |
 | 6 | Mar 03  |<a href="session-6#lecture"> GIT </a> | <a href="session-6#workshop"> GIT, Project feedback and resources </a>  | A.Sherlock, D. Korre  |    
 | 7 | Mar 10 |<a href="session-7#lecture"> Machine Learning and Artificial Intelligence (ML/AI) - Supervised </a>  | <a href="session-7#workshop"> Machine Learning & prediction analytics (Supervised Learning)  </a>  | A.Sherlock, D. Korre  |   
-| 8 | Mar 17  | Machine Learning and Artificial Intelligence (ML/AI) - Unsupervised Learning | Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)  | A.Sherlock, D. Korre   |   
+| 8 | Mar 17  | <a href="session-7#lecture"> Machine Learning and Artificial Intelligence (ML/AI) - Unsupervised Learning </a>| <a href="session-7#workshop"> Machine Learning & prediction analytics (Unupervised Learning and crossvalidation) </a> | A.Sherlock, D. Korre   |   
 | 9 | Mar 24  | Asset Management and Guest Lecture / IoT  | Machine Learning and Visual Exercise (Data mining factory data)  |  A.Sherlock, D. Korre  | 
 | 10 | Mar 31  | EBoM / MBoM / Geometry / Time Series |  Presenting Information  | A.Sherlock, D. Korre   | 
 |  | Apr  |   | <a href="assessment">Assessment</a> |  |   
