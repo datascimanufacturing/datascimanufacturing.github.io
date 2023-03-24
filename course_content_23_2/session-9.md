@@ -52,7 +52,12 @@ World Economic Forum, 2021. [online] Www3.weforum.org. Available at: https://www
 * Stork, n.d. A FIELD PROVEN VISION ON ASSET MANAGEMENT. ASSET MANAGEMENT IN INDUSTRIAL ENVIRONMENTS. Stork. 
 * Comparesoft. 2021. Why Asset Management in Manufacturing is Key to Success. [online] Available at: https://comparesoft.com/asset-management-software/blog/how-asset-management-in-manufacturing-is-creating-the-smart-factories-of-tomorrow/.
 * Columbus, L., 2021. Ten Ways Big Data Is Revolutionizing Manufacturing. [online] Forbes. Available at: https://www.forbes.com/sites/louiscolumbus/2014/11/28/ten-ways-big-data-is-revolutionizing-manufacturing/?sh=799196b3ce16.
-
+* [Regression to calculate productivity](https://www.kaggle.com/code/ishadss/regression-to-calculate-productivity)
+* [Data Mining Exercise](https://www.kaggle.com/code/racercor/data-mining-exercise)
+* [Productivity Prediction of Garment Employees](https://www.kaggle.com/datasets/ishadss/productivity-prediction-of-garment-employees)
+* [Productivity Prediction of Employees using Machine Learning Python](https://pub.towardsai.net/productivity-prediction-of-employees-using-machine-learning-python-24a327534f71)
+* [What are RMSE and MAE?](https://towardsdatascience.com/what-are-rmse-and-mae-e405ce230383)
+* [Understanding Q-Q Plots](https://data.library.virginia.edu/understanding-q-q-plots/)
 
 
 #### Links
@@ -80,7 +85,7 @@ World Economic Forum, 2021. [online] Www3.weforum.org. Available at: https://www
  
 
 #### Video workshop
-* [DSM Workshop 9-Jupyter Notebooks and Machine Learning](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EQ8StQsB1CBIqZGIVyGd4woBdumoy9aGui4xE4z2r0WOOA?e=gfnpen)
+* [DSM Workshop 9-Jupyter Notebooks and Machine Learning](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/EdwsCuG-8j9DhTNSfv4YmkwBU9DziGeOteFcBlCmD_oOLw?e=ZoP5lr)
 
 <p>&nbsp;</p>
 
