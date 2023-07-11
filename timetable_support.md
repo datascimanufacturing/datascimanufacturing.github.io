@@ -3,7 +3,7 @@
 The course runs from 09:00 to 10:00 on Friday (TBC). <!-- Any activity will happen online on Collaborate. Collaborate can be accessed through this link:(LINK) -->
 Most of the sessions are live, some require watching a video.
 Times below are UK times.
-* Questions & Answers (Q&A) clinics: Wednesday 19:00-20:00
+* Questions & Answers (Q&A) clinics (as needed): Wednesday 19:00-20:00
 * Lectures: Friday (TBC) 09:00-10:00 usually a live online talk and/or in person at Kings Buildings
 * Workshop tutorials: 10:00-12:00—a guided exercise, carried out individually or in groups with tutor support and open sessions, with tutors/lecturers on hand to support
 * Office hours with tutors
@@ -11,17 +11,17 @@ Times below are UK times.
 
 |  Week | Date | Lecture | Workshop/ Tutorial  | Teaching  |    
 |---|---|---|---|---|---|
-| 1 |  Jan 27 | Introduction and Foundations| Intro to Python programming and Jupyter Notebooks  | A.Sherlock, D. Korre  |  
-| 2 | Feb 03  | Data Carpentry |  Intro to Python and Data carpentry |  A.Sherlock, D. Korre  |   
-| 3 | Feb 10  | Product Lifecycle / Material Flow  |  Data carpentry and data cleaning |  A.Sherlock, D. Korre  |   
-| 4 | Feb 17  | Data visualisation and Exploratory Data Analysis  | Data Visualisation and Exploratory Data Analysis  |  A.Sherlock, D. Korre  |   
-| 5 | Feb 24  | Current Manufacturing Software / PLM / ERP /MES  |  Data Representation / Relational databases |  A.Sherlock, D. Korre  |
-| 6 | Mar 03  | Guest Lecture  | Project feedback and resources  | A.Sherlock, D. Korre  |    
-| 7 | Mar 10  | Machine Learning and Artificial Intelligence (ML/AI) - Supervised Learning  | Machine Learning & prediction analytics (Supervised Learning)   | A.Sherlock, D. Korre  |   
-| 8 | Mar 17  | Machine Learning and Artificial Intelligence (ML/AI) - Unsupervised Learning | Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)  | A.Sherlock, D. Korre   |   
-| 9 | Mar 24  | Asset Management / IoT  | Machine Learning and Visual Exercise (Data mining factory data)  |  A.Sherlock, D. Korre  | 
-| 10 | Mar 31  | EBoM / MBoM / Geometry / Time Series |  Presenting Information  | A.Sherlock, D. Korre   | 
-|  | Apr  |   | Assessment |  |   
+| 1 |  Sep 22 | Introduction and Foundations| Intro to Python programming and Jupyter Notebooks  | A.Sherlock, D. Korre  |  
+| 2 | Sep 29  | Data Carpentry |  Intro to Python and Data carpentry |  A.Sherlock, D. Korre  |   
+| 3 | Oct 06  | Product Lifecycle / Material Flow  |  Data carpentry and data cleaning |  A.Sherlock, D. Korre  |   
+| 4 | Oct 13 | Data visualisation and Exploratory Data Analysis  | Data Visualisation and Exploratory Data Analysis  |  A.Sherlock, D. Korre  |   
+| 5 | Oct 20  | Current Manufacturing Software / PLM / ERP /MES  |  Data Representation / Relational databases |  A.Sherlock, D. Korre  |
+| 6 | Oct 27  | Guest Lecture  | Project feedback and resources  | A.Sherlock, D. Korre  |    
+| 7 | Nov 03  | Machine Learning and Artificial Intelligence (ML/AI) - Supervised Learning  | Machine Learning & prediction analytics (Supervised Learning)   | A.Sherlock, D. Korre  |   
+| 8 | Nov 10  | Machine Learning and Artificial Intelligence (ML/AI) - Unsupervised Learning | Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)  | A.Sherlock, D. Korre   |   
+| 9 | Nov 17  | Asset Management / IoT  | Machine Learning and Visual Exercise (Data mining factory data)  |  A.Sherlock, D. Korre  | 
+| 10 | Nov 24  | EBoM / MBoM / Geometry / Time Series |  Presenting Information  | A.Sherlock, D. Korre   | 
+|  | December  |   | Assessment |  |   
 
 
 <!-- Visual literacy and culture, visualisation design and target audience all account for differences in interpretation and use of visualisations. How do you design to ensure your audience receives the message you intend to deliver?
