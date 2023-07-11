@@ -2,7 +2,7 @@
 
 ![teaser](images/teaserdsm.png)
 
-The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2023 from __January 27th - March 31st (10 weeks)__ and is dedicated to professionals in---among others---the manufacturing sector.
+The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2023 from __September 18th - November 24th (10 weeks)__ and is dedicated to professionals in---among others---the manufacturing sector.
 
 Assuming students are familiar with the processes commonly used to organise and undertake engineering manufacture this online course teaches:
 
@@ -30,8 +30,8 @@ It covers the fundamentals of:
 * __Introduce__ collaborative practices around data collection, analysis and presentation
 
 
-Meet the organizers and join our **[open info session on MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGNiMDI2ZTQtNmY4MS00MTMwLTk2NzUtN2RhMzllN2QwMzY2%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2269a6ec46-60d9-4c4e-99e5-c8561f10dbfb%22%7d)** (installed MS Teams application required). The session gives an overview over the course and the chance for prospective students to ask questions about the content and delivery of the course. Sessions times are 
-* Thursday, Jan 12th, 6-7pm, BST
+Meet the organizers and join our **[open info session on MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjBjZTA5NjktZjQwOS00MWQ3LWEwM2YtY2ViYzQ5MmQxMjkw%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2269a6ec46-60d9-4c4e-99e5-c8561f10dbfb%22%7d)** (installed MS Teams application required). The session gives an overview over the course and the chance for prospective students to ask questions about the content and delivery of the course. Sessions times are 
+* Thursday, Aug 17th, 6-7pm, BST
 
 
 With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __tutorial workshops__, __drop-in sessions__,  __complementary online teaching material__, and __seminars by guest speakers__. More about the [course organisation](organisation.html) and its [schedule](content.html).
@@ -65,10 +65,10 @@ Browse further detail on the __[course structure](organisation.md)__.
 
 
 ## Course Delivery Information
-* Start Date: __27 January 2023__
+* Start Date: __18 September 2023__
 * Course Duration: __10 weeks__, complementing self-directed online and on site learning with one hands-on session per week via a virtual classroom, in addition to a Q&amp;A session to discuss lectures and corresponding exercises 
 * Total Hours: __50-100hrs__ (Lecture Hours 9; Workshop tutorial Hours 18; Independent Study Hours 30-73) 
 * Weekly investment: __5-10hrs__, including lectures, workshop tutorials, reading, Q&As, project work.
-* Weekly lectures will take place on __Fridays, 9am – 10am__ followed by a computer-based workshop __10am to 12noon__. There will be a drop-in clinic when needed on __Thursdays, 7pm – 8pm__.  
+* Weekly lectures will take place on __Fridays, 9am – 10am__ followed by a computer-based workshop __10am to 12noon__. There will be a drop-in clinic when needed on __Thursdays, 7pm – 8pm__ (subject to change).  
 * Method of Assessment: __Coursework 100%__, including submission of a final project based on an industrial dataset (which optionally can be related to the current employer of students, NDAs could be signed).  
 * Assessment information: Written Exam 0%, Coursework 100%, Practical Exam 0%. Weekly check-ins of the proposed project in the clinics. You will receive one-on-one and detailed written feedback on your project.
