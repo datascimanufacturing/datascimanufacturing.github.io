@@ -20,7 +20,7 @@ Eligibility criteria for a fee waiver are laid out [here](entry.html).
 ### When is the application deadline
 
 
-The Bayes Centre will continue to accept applications for this course till close of play Fri, 12th September 2023. 
+The Bayes Centre will continue to accept applications for this course till close of play Fri, 10th September 2023. 
 
 
 ### Can I also take another course in Bayes' _Data Upskilling Short Courses_ portfolio?
