@@ -55,7 +55,8 @@ For further details see ResearchGate and Google Scholar profiles.
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="images/danai.jpg"/></td>
     <td style="vertical-align:top;">
-      <b>Danai Korre, PhD,</b> is a Research Associate in Augmented and Virtual Reality at the University of Edinburgh. She has an MSc in digital media and holds a PhD in Human-Oriented Artificial Intelligence, User Experience (UX) research and Data Science with a focus on embodied conversational agents and mobile serious games. She has more than 8 years of experience in EdTech and is a review editor in mobile and ubiquitous computing. 
+      <b>Danai Korre, PhD,</b> is an Associate Lecturer in Data Science for Manufacturing at the School of Engineering, University of Edinburgh. Prior to this, she served as a Research Associate in Augmented Reality at the same institution from April 2020. She is an established and versatile researcher with over 10 years of experience in data science, conversational user interfaces, user experience (UX) research and educational technology (EdTech). Throughout her career, she has been the recipient of several grants and awards, highlighting her dedication and contributions to her field. Notable grants include the Principal's Teaching Award for "Computational thinking in data science: Strategies for Effective Learning" in 2023 and the Bayes Seed Funding for "Industrial Datasets for Upskilling the Manufacturing Workforce" in the same year.  She has actively participated in professional activities, scientific workshops, and conferences, where she has presented her research findings and engaged with the academic community. Additionally, Danai has made significant contributions as a teacher and supervisor, sharing her knowledge and expertise with students at various levels.
+
 <p>&nbsp;</p>
 <ul>
   <li>Twitter: <a href="https://twitter.com/danaikorre">@danaikorre</a></li>
