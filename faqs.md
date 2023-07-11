@@ -20,7 +20,7 @@ Eligibility criteria for a fee waiver are laid out [here](entry.html).
 ### When is the application deadline
 
 
-The Bayes Centre will continue to accept applications for this course till close of play Fri, 12th January 2023. 
+The Bayes Centre will continue to accept applications for this course till close of play Fri, 12th September 2023. 
 
 
 ### Can I also take another course in Bayes' _Data Upskilling Short Courses_ portfolio?
@@ -62,7 +62,7 @@ Please note that if you choose not to attend tutorials you **must** still follow
 We encourage participants to come with an idea and/or data for their project, from work or of personal interest.  
 Please note you do not need to have an idea formulated in advance; we will address projects and input data in the first week's tutorials. We will also provide [pointers to public, open datasets](organisation.md#byod).
 
-Please [complete a short survey](https://forms.gle/4Z6wTZkoHMsNL5Yu5) and provide your contact details or [e-mail us](mailto:datascimanu@gmail.com ) if you wish to discuss ideas prior to course start. 
+Please [complete a short survey]([https://forms.gle/4Z6wTZkoHMsNL5Yu5](https://docs.google.com/forms/d/e/1FAIpQLSd-XnKGz8wiQv27VyqMHgJlgwHZrSU4-ZtHVHMCKUvzq8hA9Q/viewform?usp=sf_link)) and provide your contact details or [e-mail us](mailto:datascimanu@gmail.com ) if you wish to discuss ideas prior to course start. 
 
 
 ### What if I have sensitive and/or private data? 
