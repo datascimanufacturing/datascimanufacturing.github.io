@@ -23,6 +23,17 @@ Each week has a [topic](#course_organisation). All of that written below is opti
 Schedule for tutorials and Q&A sessions [below](#timetable).
 <br />
 
+## Collaboration Guidelines
+
+* Individual assignments must be completed independently, but you are encouraged to engage in high-level discussions with classmates (e.g., sharing approaches to problems, suggesting useful functions). However, direct sharing of homework answers or code is only allowed with the instructor and teaching assistants.
+* For projects, high-level communication between teams is allowed, but sharing code or project components across teams is not permitted.
+
+## Code Sharing and Reuse Policy
+
+* You are allowed to utilize online resources (e.g., StackOverflow, Chat GPT) unless explicitly instructed otherwise. When using code directly or drawing inspiration from it, you must provide proper citations.
+* Failure to cite recycled code will be considered plagiarism.
+* Individual assignments prohibit direct code sharing with fellow students, and team assignments prohibit sharing code with other teams in the class.
+
 <!--## Keeping a Learning Journal 
 
 Students are expected to reflect upon their learning on a week by week basis. Learning can come from the lectures, from class discussions, from further reading, other assignments, talking with colleagues, business news etc.. The reflective learning journal is intended to consolidate learning and to help students consciously and intentionally develop Data Science skills. As Engineers, reflective writing might be new and a little bit confusing but there is a purpose for using it. Reflection has been shown to be a highly effective way of learning.
@@ -77,7 +88,7 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 
 |  Week | Date | Lecture | Workshop/ Tutorial  | Teaching  |    
 |---|---|---|---|---|---|
-| 1 |  Jan 27 | <a href="session-1#lecture">Introduction and Foundations</a> | <a href="session-1#workshop">Intro to Python programming and Jupyter Notebooks</a>  | A.Sherlock, D. Korre  |  
+| 1 |  Jan 27 | <!-- a href="session-1#lecture" --> Introduction and Foundations</a> | <a href="session-1#workshop">Intro to Python programming and Jupyter Notebooks</a>  | A.Sherlock, D. Korre  |  
 | 2 | Feb 03  | <a href="session-2#lecture">Data Carpentry</a>  |  <a href="session-2#workshop">Intro to Python and Data carpentry</a>|  A.Sherlock, D. Korre  | 
 | 3 | Feb 10  | <a href="session-3#lecture">Product Lifecycle / Material Flow  </a>| <a href="session-3#workshop"> Data carpentry and data cleaning </a>|  A.Sherlock, D. Korre  |   
 | 4 | Feb 17  |<a href="session-4#lecture">Data visualisation and Exploratory Data Analysis</a>  | <a href="session-4#workshop">Data Visualisation and Exploratory Data Analysis</a> |  A.Sherlock, D. Korre  |   
