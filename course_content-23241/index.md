@@ -90,7 +90,7 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 
 |  Week | Date | Lecture | Workshop/ Tutorial  | Teaching  |    
 |---|---|---|---|---|---|
-| 1 |  Jan 27 |  <a href="session-1#lecture" --> Introduction and Foundations </a> | <a href="session-1#workshop">Intro to Python programming and Jupyter Notebooks</a>  | A.Sherlock, D. Korre  |  
+| 1 |  Jan 27 |  <a href="session-1#lecture"> Introduction and Foundations </a> | <a href="session-1#workshop">Intro to Python programming and Jupyter Notebooks</a>  | A.Sherlock, D. Korre  |  
 | 2 | Feb 03  | <!--<a href="session-2#lecture">-->Data Carpentry  |  <!--<a href="session-2#workshop">-->Intro to Python and Data carpentry|  A.Sherlock, D. Korre  | 
 | 3 | Feb 10  | <!--<a href="session-3#lecture">-->Product Lifecycle / Material Flow  | <!--<a href="session-3#workshop">--> Data carpentry and data cleaning |  A.Sherlock, D. Korre  |   
 | 4 | Feb 17  |<!--<a href="session-4#lecture">-->Data visualisation and Exploratory Data Analysis  | <!--<a href="session-4#workshop">-->Data Visualisation and Exploratory Data Analysis |  A.Sherlock, D. Korre  |   
