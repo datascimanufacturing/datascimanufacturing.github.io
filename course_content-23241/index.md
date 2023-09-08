@@ -34,6 +34,10 @@ Schedule for tutorials and Q&A sessions [below](#timetable).
 * Failure to cite recycled code will be considered plagiarism.
 * Individual assignments prohibit direct code sharing with fellow students, and team assignments prohibit sharing code with other teams in the class.
 
+# [Assessment Guidelines](assessment.md)
+
+In addition to the final project **(70% of your final mark)**, the course has one more assignment **(20% of your final mark)** that need to be submitted to pass. Please note you **MUST** submit all [assignments](assessment.md) whether you attend tutorials or not. You must also attempt weekly quizzes **(10% of your final mark)**. 
+
 <!--## Keeping a Learning Journal 
 
 Students are expected to reflect upon their learning on a week by week basis. Learning can come from the lectures, from class discussions, from further reading, other assignments, talking with colleagues, business news etc.. The reflective learning journal is intended to consolidate learning and to help students consciously and intentionally develop Data Science skills. As Engineers, reflective writing might be new and a little bit confusing but there is a purpose for using it. Reflection has been shown to be a highly effective way of learning.
@@ -49,10 +53,8 @@ Resources you may need during the course.
 * **[Teams]([https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6867286_1&course_id=_91471_1](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODVhZjcwY2UtYWY3Ny00MmU1LTk0ZTQtOTg3ZDAwNDU1ZTEw%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2269a6ec46-60d9-4c4e-99e5-c8561f10dbfb%22%7d)):** **note** you must be logged in to your Office365 account for this course for this link to work.   
 * **[Learn VLE](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6867286_1&course_id=_91471_1)**: **note** you must be logged in to the university for this link to work.
 <!-- * **[Book 1-on-1](https://datavisonline.youcanbook.me)**. The booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available -->
-
 * **[MyEd portal](https://www.myed.ed.ac.uk)**   
 * **[Library](https://discovered.ed.ac.uk)** to obtain copies of books and papers. 
-
 * **[Noteable - University of Edinburgh Jupyter Notebook](https://noteable.edina.ac.uk/launch)**. The site provides an environment for Jupyter Notebooks.  
 * **[University software services](https://www.ed.ac.uk/information-services/computing/desktop-personal/software)**
 * **[University IT helpdesk](https://www.ed.ac.uk/information-services/help-consultancy/contact-helpline)**
@@ -88,17 +90,17 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 
 |  Week | Date | Lecture | Workshop/ Tutorial  | Teaching  |    
 |---|---|---|---|---|---|
-| 1 |  Jan 27 | <!-- a href="session-1#lecture" --> Introduction and Foundations</a> | <a href="session-1#workshop">Intro to Python programming and Jupyter Notebooks</a>  | A.Sherlock, D. Korre  |  
-| 2 | Feb 03  | <a href="session-2#lecture">Data Carpentry</a>  |  <a href="session-2#workshop">Intro to Python and Data carpentry</a>|  A.Sherlock, D. Korre  | 
-| 3 | Feb 10  | <a href="session-3#lecture">Product Lifecycle / Material Flow  </a>| <a href="session-3#workshop"> Data carpentry and data cleaning </a>|  A.Sherlock, D. Korre  |   
-| 4 | Feb 17  |<a href="session-4#lecture">Data visualisation and Exploratory Data Analysis</a>  | <a href="session-4#workshop">Data Visualisation and Exploratory Data Analysis</a> |  A.Sherlock, D. Korre  |   
-| 5 | Feb 24  | <a href="session-5#lecture">Current Manufacturing Software / PLM / ERP /MES </a> | <a href="session-5#workshop"> Data Representation / Relational databases</a> |  A.Sherlock, D. Korre  |
-| 6 | Mar 03  |<a href="session-6#lecture"> GIT </a> | <a href="session-6#workshop"> GIT, Project feedback and resources </a>  | A.Sherlock, D. Korre  |    
-| 7 | Mar 10 |<a href="session-7#lecture"> Machine Learning and Artificial Intelligence (ML/AI) - Supervised </a>  | <a href="session-7#workshop"> Machine Learning & prediction analytics (Supervised Learning)  </a>  | A.Sherlock, D. Korre  |   
-| 8 | Mar 17  | <a href="session-8#lecture"> Machine Learning and Artificial Intelligence (ML/AI) - Unsupervised Learning </a>| <a href="session-8#workshop"> Machine Learning & prediction analytics (Unupervised Learning and crossvalidation) </a> | A.Sherlock, D. Korre   |   
-| 9 | Mar 24  | <a href="session-9#lecture">Asset Management and Guest Lecture / IoT </a> | <a href="session-9#workshop">Machine Learning and Visual Exercise (Data mining factory data) </a>  |  A.Sherlock, D. Korre  | 
+| 1 |  Jan 27 |  a href="session-1#lecture" --> Introduction and Foundations </a> | <a href="session-1#workshop">Intro to Python programming and Jupyter Notebooks</a>  | A.Sherlock, D. Korre  |  
+| 2 | Feb 03  | <!--<a href="session-2#lecture">-->Data Carpentry  |  <!--<a href="session-2#workshop">-->Intro to Python and Data carpentry|  A.Sherlock, D. Korre  | 
+| 3 | Feb 10  | <!--<a href="session-3#lecture">-->Product Lifecycle / Material Flow  | <!--<a href="session-3#workshop">--> Data carpentry and data cleaning |  A.Sherlock, D. Korre  |   
+| 4 | Feb 17  |<!--<a href="session-4#lecture">-->Data visualisation and Exploratory Data Analysis  | <!--<a href="session-4#workshop">-->Data Visualisation and Exploratory Data Analysis |  A.Sherlock, D. Korre  |   
+| 5 | Feb 24  | <!--<a href="session-5#lecture">-->Current Manufacturing Software / PLM / ERP /MES  | <!--<a href="session-5#workshop">--> Data Representation / Relational databases |  A.Sherlock, D. Korre  |
+| 6 | Mar 03  |<!--<a href="session-6#lecture"> -->GIT  | <!--<a href="session-6#workshop">--> GIT, Project feedback and resources   | A.Sherlock, D. Korre  |    
+| 7 | Mar 10 |<!--<a href="session-7#lecture"> -->Machine Learning and Artificial Intelligence (ML/AI) - Supervised   | <!--<a href="session-7#workshop">--> Machine Learning & prediction analytics (Supervised Learning)    | A.Sherlock, D. Korre  |   
+| 8 | Mar 17  | <!--<a href="session-8#lecture"> -->Machine Learning and Artificial Intelligence (ML/AI) - Unsupervised Learning | <!--<a href="session-8#workshop">--> Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)  | A.Sherlock, D. Korre   |   
+| 9 | Mar 24  | <!--<a href="session-9#lecture">-->Asset Management and Guest Lecture / IoT  | <!--<a href="session-9#workshop">-->Machine Learning and Visual Exercise (Data mining factory data)   |  A.Sherlock, D. Korre  | 
 | 10 | Mar 31  | EBoM / MBoM / Geometry / Time Series |  Presenting Information  | A.Sherlock, D. Korre   | 
-|  | Apr  |   | <a href="assessment">Assessment</a> |  |   
+|  | Apr  |   | <!--<a href="assessment">-->Assessment</a> |  |   
 |  |   | Guest Lecture: Data driven Manufacturing (DDM) |  Clinics  | A.Sherlock, D. Korre   |   
 |  |  | [Guest Lectures](guest.mdf) | |
 
