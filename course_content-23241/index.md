@@ -90,17 +90,17 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 
 |  Week | Date | Lecture | Workshop/ Tutorial  | Teaching  |    
 |---|---|---|---|---|---|
-| 1 |  Jan 27 |  <a href="session-1#lecture"> Introduction and Foundations </a> | <a href="session-1#workshop">Intro to Python programming and Jupyter Notebooks</a>  | A.Sherlock, D. Korre  |  
-| 2 | Feb 03  | <!--<a href="session-2#lecture">-->Data Carpentry  |  <!--<a href="session-2#workshop">-->Intro to Python and Data carpentry|  A.Sherlock, D. Korre  | 
-| 3 | Feb 10  | <!--<a href="session-3#lecture">-->Product Lifecycle / Material Flow  | <!--<a href="session-3#workshop">--> Data carpentry and data cleaning |  A.Sherlock, D. Korre  |   
-| 4 | Feb 17  |<!--<a href="session-4#lecture">-->Data visualisation and Exploratory Data Analysis  | <!--<a href="session-4#workshop">-->Data Visualisation and Exploratory Data Analysis |  A.Sherlock, D. Korre  |   
-| 5 | Feb 24  | <!--<a href="session-5#lecture">-->Current Manufacturing Software / PLM / ERP /MES  | <!--<a href="session-5#workshop">--> Data Representation / Relational databases |  A.Sherlock, D. Korre  |
-| 6 | Mar 03  |<!--<a href="session-6#lecture"> -->GIT  | <!--<a href="session-6#workshop">--> GIT, Project feedback and resources   | A.Sherlock, D. Korre  |    
-| 7 | Mar 10 |<!--<a href="session-7#lecture"> -->Machine Learning and Artificial Intelligence (ML/AI) - Supervised   | <!--<a href="session-7#workshop">--> Machine Learning & prediction analytics (Supervised Learning)    | A.Sherlock, D. Korre  |   
-| 8 | Mar 17  | <!--<a href="session-8#lecture"> -->Machine Learning and Artificial Intelligence (ML/AI) - Unsupervised Learning | <!--<a href="session-8#workshop">--> Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)  | A.Sherlock, D. Korre   |   
-| 9 | Mar 24  | <!--<a href="session-9#lecture">-->Asset Management and Guest Lecture / IoT  | <!--<a href="session-9#workshop">-->Machine Learning and Visual Exercise (Data mining factory data)   |  A.Sherlock, D. Korre  | 
-| 10 | Mar 31  | EBoM / MBoM / Geometry / Time Series |  Presenting Information  | A.Sherlock, D. Korre   | 
-|  | Apr  |   | <!--<a href="assessment">-->Assessment</a> |  |   
+| 1 |  Sep 22 |  <a href="session-1#lecture"> Introduction and Foundations </a> | <a href="session-1#workshop">Intro to Python programming and Jupyter Notebooks</a>  | A.Sherlock, D. Korre  |  
+| 2 | Sep 29  | <!--<a href="session-2#lecture">-->Data Carpentry  |  <!--<a href="session-2#workshop">-->Intro to Python and Data carpentry|  A.Sherlock, D. Korre  | 
+| 3 | Oct 06  | <!--<a href="session-3#lecture">-->Product Lifecycle / Material Flow  | <!--<a href="session-3#workshop">--> Data carpentry and data cleaning |  A.Sherlock, D. Korre  |   
+| 4 | Oct 13  |<!--<a href="session-4#lecture">-->Data visualisation and Exploratory Data Analysis  | <!--<a href="session-4#workshop">-->Data Visualisation and Exploratory Data Analysis |  A.Sherlock, D. Korre  |   
+| 5 | Oct 20  | <!--<a href="session-5#lecture">-->Current Manufacturing Software / PLM / ERP /MES  | <!--<a href="session-5#workshop">--> Data Representation / Relational databases |  A.Sherlock, D. Korre  |
+| 6 | Oct 27  |<!--<a href="session-6#lecture"> -->GIT  | <!--<a href="session-6#workshop">--> GIT, Project feedback and resources   | A.Sherlock, D. Korre  |    
+| 7 | Nov 03 |<!--<a href="session-7#lecture"> -->Machine Learning and Artificial Intelligence (ML/AI) - Supervised   | <!--<a href="session-7#workshop">--> Machine Learning & prediction analytics (Supervised Learning)    | A.Sherlock, D. Korre  |   
+| 8 | Nov 10  | <!--<a href="session-8#lecture"> -->Machine Learning and Artificial Intelligence (ML/AI) - Unsupervised Learning | <!--<a href="session-8#workshop">--> Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)  | A.Sherlock, D. Korre   |   
+| 9 | Nov 17  | <!--<a href="session-9#lecture">-->Asset Management and Guest Lecture / IoT  | <!--<a href="session-9#workshop">-->Machine Learning and Visual Exercise (Data mining factory data)   |  A.Sherlock, D. Korre  | 
+| 10 | Nov 24  | EBoM / MBoM / Geometry / Time Series |  Presenting Information  | A.Sherlock, D. Korre   | 
+|  | Dec  |   | <!--<a href="assessment">-->Assessment</a> |  |   
 |  |   | Guest Lecture: Data driven Manufacturing (DDM) |  Clinics  | A.Sherlock, D. Korre   |   
 |  |  | [Guest Lectures](guest.mdf) | |
 
