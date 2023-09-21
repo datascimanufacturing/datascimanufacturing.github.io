@@ -58,6 +58,8 @@ Resources you may need during the course.
 * **[Noteable - University of Edinburgh Jupyter Notebook](https://noteable.edina.ac.uk/launch)**. The site provides an environment for Jupyter Notebooks.  
 * **[University software services](https://www.ed.ac.uk/information-services/computing/desktop-personal/software)**
 * **[University IT helpdesk](https://www.ed.ac.uk/information-services/help-consultancy/contact-helpline)**
+*  The course is assessed by two course work exercises,  please note that submission of reports is managed by the university's teaching 
+administration (not the lecturers). If you need an extension you must make a formal application otherwise late penalties are automatically applied. **[Extensions](https://www.ed.ac.uk/student-administration/extensions-special-circumstances)**
 
 <!-- * **[VisGuides open discussion forum](https://visguides.org/)** about visualisation guidelines  
 * **[Books](https://visualinteractivedata.github.io/res-books)** about visualization
