@@ -14,11 +14,11 @@ Each week has a [topic](#course_organisation). All of that written below is opti
 * attend an open discussion and Q&A on the previous week's topic (usually for the first 1/2 hour on Friday morning). We may also have guest speakers during this time. (~1h)
 * attend the week's lecture (or watch the recording) usually at 09:00 on the Friday (~1h)
 * participate in the workshop/tutorial in person and/or on **[Teams]()** (2h). <!--There is a channel for each tutorial group A and B. --> Sessions are recorded (recordings will automatially appear in the channel);
-<!--* submit the week's quizzes via Teams and check your answers against the sample solutions (provided after submission) (~1h) -->
+* submit the week's quizzes and check your answers against the sample solutions (provided after submission) (~1h)
 * browse any recommended reading material (~1h)
 * attend the Q&A sessions in the dedicated channel in person and/or on Teams. Q&A sessions are also recorded.
 * any milestone assignments must be submitted through **[Learn VLE](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6867286_1&course_id=_91471_1)**. 
-* update your learning journal.
+  <!-- * update your learning journal. -->
 
 Schedule for tutorials and Q&A sessions [below](#timetable).
 <br />
