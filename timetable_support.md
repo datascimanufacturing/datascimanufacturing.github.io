@@ -4,7 +4,7 @@ The course runs from 09:00 to 10:00 on Friday (TBC). <!-- Any activity will happ
 Most of the sessions are live, some require watching a video.
 Times below are UK times.
 * Questions & Answers (Q&A) clinics (as needed): Wednesday 19:00-20:00
-* Lectures: Friday (TBC) 09:00-10:00 usually a live online talk and/or in person at Kings Buildings
+* Lectures: Friday 09:00-10:00 usually a live online talk and/or in person at Kings Buildings, ESB CR3
 * Workshop tutorials: 10:00-12:00—a guided exercise, carried out individually or in groups with tutor support and open sessions, with tutors/lecturers on hand to support
 * Office hours with tutors
 * Microsoft Teams for chats and forum questions
