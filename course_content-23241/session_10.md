@@ -21,10 +21,10 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [EBoM / MBoM / Geometry / Time Series](/course_content_2022/files/Data_Science_in_Manufacturing-Week_10.pdf )  
+* [EBoM / MBoM / Geometry / Time Series]<!-- (/course_content_2022/files/Data_Science_in_Manufacturing-Week_10.pdf ) --> 
 
 #### Video lectures
-* [DSM Lecture 10](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EUDZRhM-sNxNsMZJwX_jafIBQxOH7x73c3LhtVuzv_hf7A?e=zOftXn)
+* [DSM Lecture 10]()
 
 <br />
 
@@ -106,7 +106,7 @@ World Economic Forum, 2021. [online] Www3.weforum.org. Available at: https://www
 * Python Libraries and functionality for working with 3D models
 
 
-* [DSM Workshop 10](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EVCwbxMHIxBDsIIoSgyoovIBN9pphxIuyuqkhy5Xl0tpwQ?e=Mi8ShO)
+* [DSM Workshop 10]()
 
 <p>&nbsp;</p>
 
