@@ -20,10 +20,10 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Introduction to Data Science for Manufacturing](files/)  
+* [Introduction to Data Science for Manufacturing](files/Data_Science_in_Manufacturing-Week_1.pdf)  
 
 #### Video lectures
-* [DSM Lecture 1]()
+* [DSM Lecture 1](https://uoe.sharepoint.com/:v:/s/DS4M_9-23/Ef7wgkYqquRHrRZnu51PAokBodhYoq2VhGPnHdTBjHhpVA?e=Z7kPbW)
 
 <br />
 
@@ -73,7 +73,7 @@ back to [course content](index#course_organisation)
 * [Introduction to Python programming and Jupyter Notebooks](files/DSM_Workshop_Week 1.pdf)  
 
 #### Video lectures
-* [DSM Workshop 1]()
+* [DSM Workshop 1](https://uoe.sharepoint.com/:v:/s/DS4M_9-23/ESfmsYzHrClIs3J7Q0RBGfQB-cr0FPhBH2RRo0tCEUasQg?e=9Bboqy)
 
 #### Cheatsheets
 
