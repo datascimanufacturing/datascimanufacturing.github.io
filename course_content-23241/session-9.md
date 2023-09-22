@@ -17,10 +17,10 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Asset Management / IoT](/course_content_2022/files/Data_Science_in_Manufacturing-Week_9_new.pdf)  
+* [Asset Management / IoT]<!-- (/course_content_2022/files/Data_Science_in_Manufacturing-Week_9_new.pdf)  -->
 
 #### Video lectures
-* [DSM Lecture 9](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EUkJs0EZj9FMv40sGR_uCaMBWRVmRvbyK2r6-BmeR7Y_iw?e=kvvFJM)
+* [DSM Lecture 9]()
 
 
 <br />
@@ -85,7 +85,7 @@ World Economic Forum, 2021. [online] Www3.weforum.org. Available at: https://www
  
 
 #### Video workshop
-* [DSM Workshop 9-Jupyter Notebooks and Machine Learning](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/EdwsCuG-8j9DhTNSfv4YmkwBU9DziGeOteFcBlCmD_oOLw?e=ZoP5lr)
+* [DSM Workshop 9-Jupyter Notebooks and Machine Learning]()
 
 <p>&nbsp;</p>
 
