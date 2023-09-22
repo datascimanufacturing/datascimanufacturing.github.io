@@ -24,10 +24,10 @@ Git   (60min)
     * Git push
 
 ### Slides
-* [GIT](files/Workshop-Week_6- Git.pdf)   
+* [GIT]<!-- (files/Workshop-Week_6- Git.pdf)   -->
 
 #### Video lectures
-* [GIT](https://uoe-my.sharepoint.com/:v:/g/personal/dkorre_ed_ac_uk/EUflq1grLflJrcAyAmtozEcBsRk-gI6n_S2llCIAP1fxeQ?e=9gqmzr)
+* [GIT]()
 
 
 <br />
