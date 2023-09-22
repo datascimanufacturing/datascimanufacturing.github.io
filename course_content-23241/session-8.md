@@ -17,10 +17,10 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Unsupervised Learning](/course_content_23_2/files/Data_Science_in_Manufacturing-Week_8_Unsupervised.pdf)  
+* [Unsupervised Learning]<!-- (/course_content_23_2/files/Data_Science_in_Manufacturing-Week_8_Unsupervised.pdf)  -->
 
 #### Video lectures
-* [DSM Lecture 8](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/EenwGhs5-H9FiaZC9CwYMUwB3qAuweEK219BzXl-BSJ1Yw?e=ynXl0V)
+* [DSM Lecture 8]()
 * Q&A in the Teams group 
 
 <br />
@@ -44,7 +44,7 @@ back to [course content](index#course_organisation)
  
 
 #### Video workshop
-* [DSM Workshop 8-Jupyter Notebooks and Machine Learning](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/ETz9_Up1pepJnJ5cTfN-NYYB_vduYIUE3DrIFXGCafpawg?e=HAuOLq)
+* [DSM Workshop 8-Jupyter Notebooks and Machine Learning]()
 
 <p>&nbsp;</p>
 
