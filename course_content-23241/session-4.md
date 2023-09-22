@@ -24,7 +24,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Exploratory Data Analysis and Data Visualisation],!-- (/course_content_2022/files/Data Science in Manufacturing - Week 4.pdf) -->
+* [Exploratory Data Analysis and Data Visualisation]<!-- (/course_content_2022/files/Data Science in Manufacturing - Week 4.pdf) -->
 
 #### Video lectures
 * [DSM Lecture 4]()
