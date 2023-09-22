@@ -18,11 +18,11 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Supervised Learning](/course_content_23_2/files/Data_Science_in_Manufacturing-Week_7_updated-2023.pdf)
+* [Supervised Learning]<!-- (/course_content_23_2/files/Data_Science_in_Manufacturing-Week_7_updated-2023.pdf) -->
 
 #### Video lectures
 
-* [Supervised Learning](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/EWsy-XZ_be9ElD1bjeD5pRIB3P1f8SFzW97ujm1TeYygcA?e=aXMyL3)
+* [Supervised Learning]()
 
 <br />
 
@@ -64,7 +64,7 @@ back to [course content](index#course_organisation)
 * Machine Learning Introduction with Python
 
 #### Video lectures
-* [DSM Workshop 7](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/EYnwmWcVE_NMkvNT_zJ9-ukB-kiamaL3XAv9lb_dSGCwsQ?e=Vr40OF)
+* [DSM Workshop 7]()
 
 <p>&nbsp;</p>
 
