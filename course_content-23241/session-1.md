@@ -73,7 +73,7 @@ back to [course content](index#course_organisation)
 * [Introduction to Python programming and Jupyter Notebooks](Files/DSM_Workshop_Week%201.pdf) 
 
 #### Video lectures
-* [DSM Workshop 1](https://uoe.sharepoint.com/:v:/s/DS4M_9-23/ESfmsYzHrClIs3J7Q0RBGfQB-cr0FPhBH2RRo0tCEUasQg?e=9Bboqy)
+* [DSM Workshop 1](https://uoe.sharepoint.com/:v:/s/DS4M_9-23/EYxVuQY4jedHuYMDu7xJaVEBRRYehtE25N1Nvl9njkYmNg?e=hEiuYu)
 
 #### Cheatsheets
 
