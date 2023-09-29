@@ -88,7 +88,7 @@ Cios, K., 2010. Data mining. New York: Springer.
 * [Data carpentry introduction](/course_content_2022/files/Workshop - Week 2.pdf)
 
 #### Video lectures
-* [DSM Workshop 2]()
+* [DSM Workshop 2](https://uoe.sharepoint.com/:v:/s/DS4M_9-23/EcWiCwQCi45Hjh47a9yXSjcBMi-yM91i3EZr8DtD3XOiiw?e=DnbXgB)
 
 * [DSM Workshop 2 Data types](https://uoe.sharepoint.com/:v:/s/DS4M9-2022/EZOh3sf1wlNCiyCHVcdlCH4BTNx9E0QFyRjRQ4_3E1otZA?e=P1EcJj)
 
