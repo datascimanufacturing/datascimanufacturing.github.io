@@ -103,7 +103,7 @@ Sas.com. n.d. What is data mining?. [online](https://www.sas.com/en_sg/insights/
 * [GIT] (files/Workshop-Week_3.pdf)  -->
 
 #### Video lectures
-* [DSM Workshop 3-Data carpentry practical exercise part 1]()
+* [DSM Workshop 3-Data carpentry practical exercise part 1](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_3/DSM_week_3_workshop_part_1.mp4?csf=1&web=1&e=7GvKvZ)
 * * [DSM Workshop 3-Data carpentry practical exercise part 2](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_3/DSM_week_3_workshop_part_2.mp4?csf=1&web=1&e=STYHZ9)
 <!-- * [GIT]() -->
 
