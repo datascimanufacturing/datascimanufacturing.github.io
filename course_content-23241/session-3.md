@@ -20,10 +20,10 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Product Lifecycle / Material Flow](/Files/DSM_Week_3.pdf))
+* [Product Lifecycle / Material Flow](/Files/DSM_Week_3.pdf)
 
 #### Video lectures
-* [DSM Lecture 3]([https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/EbEg00ARo5dCp_Xi6S6ZiKwBlot2AbXIrKcc4y8JXvZcTg?e=2XfyTM](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_3/DSM_week_3_lecture.mp4?csf=1&web=1&e=jHe7V1))
+* [DSM Lecture 3](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_3/DSM_week_3_lecture.mp4?csf=1&web=1&e=jHe7V1)
 
 <br />
 
@@ -104,7 +104,7 @@ Sas.com. n.d. What is data mining?. [online](https://www.sas.com/en_sg/insights/
 
 #### Video lectures
 * [DSM Workshop 3-Data carpentry practical exercise part 1](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_3/DSM_week_3_workshop_part_1.mp4?csf=1&web=1&e=7GvKvZ)
-* * [DSM Workshop 3-Data carpentry practical exercise part 2](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_3/DSM_week_3_workshop_part_2.mp4?csf=1&web=1&e=STYHZ9)
+* [DSM Workshop 3-Data carpentry practical exercise part 2](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_3/DSM_week_3_workshop_part_2.mp4?csf=1&web=1&e=STYHZ9)
 <!-- * [GIT]() -->
 
 <p>&nbsp;</p>
