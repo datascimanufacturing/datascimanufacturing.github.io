@@ -20,7 +20,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Product Lifecycle / Material Flow](/course_content_2022/Files/.pdf)
+* [Product Lifecycle / Material Flow](/Files/DSM_Week_3.pdf))
 
 #### Video lectures
 * [DSM Lecture 3]([https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/EbEg00ARo5dCp_Xi6S6ZiKwBlot2AbXIrKcc4y8JXvZcTg?e=2XfyTM](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_3/DSM_week_3_lecture.mp4?csf=1&web=1&e=jHe7V1))
