@@ -24,10 +24,10 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Exploratory Data Analysis and Data Visualisation]<!-- (/course_content_2022/files/Data Science in Manufacturing - Week 4.pdf) -->
+* [Exploratory Data Analysis and Data Visualisation](Files/Data Science in Manufacturing - Week 4.pdf)
 
 #### Video lectures
-* [DSM Lecture 4]()
+* [DSM Lecture 4](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_4/Recordings/DSM_week_4_lecture.mp4?csf=1&web=1&e=6YJoCG)
 
 <br />
 
@@ -130,7 +130,7 @@ back to [course content](index#course_organisation)
 * This week doesn't have workshop slides.
 
 #### Video lectures
-* [DSM Workshop 4-EDA and data visualisation]()
+* [DSM Workshop 4-EDA and data visualisation](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_4/Recordings/DSM_week_4_workshop.mp4?csf=1&web=1&e=Noy4jq)
 
 
 <p>&nbsp;</p>
