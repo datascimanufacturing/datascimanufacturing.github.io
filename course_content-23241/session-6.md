@@ -27,7 +27,7 @@ Git   (60min)
 * [GIT](Files/Workshop-Week_6- Git.pdf) 
 
 #### Video lectures
-* [GIT]()
+* [GIT](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_6/Meeting%20in%20_General_-20231027_090050-Meeting%20Recording.mp4?csf=1&web=1&e=8NmdbH)
 
 
 <br />
