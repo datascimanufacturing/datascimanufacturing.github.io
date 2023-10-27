@@ -24,7 +24,7 @@ Git   (60min)
     * Git push
 
 ### Slides
-* [GIT]<!-- (files/Workshop-Week_6- Git.pdf)   -->
+* [GIT](files/Workshop-Week_6- Git.pdf) 
 
 #### Video lectures
 * [GIT]()
@@ -59,6 +59,9 @@ Git   (60min)
 
 <p>&nbsp;</p>
 
+# Workshop
+
+No workshop this week. Project feedback and clinics. 
 
 ***
 
