@@ -26,12 +26,6 @@ back to [course content](index#course_organisation)
 
 <br />
 
-# Guest
-
-<a name = "guest"></a>
-
-
-
 #### Links
 
 * Zhydik, O., 2021. Six Powerful Use Cases for Machine Learning in Manufacturing. [online](https://eleks.com/blog/machine-learning-in-manufacturing/)
@@ -49,6 +43,9 @@ back to [course content](index#course_organisation)
 1. ["Data Analytics in manufacturing": Latest Industry IoT trends for everybody](https://www.youtube.com/watch?v=lNvo9zKXMN8)
 2. [Advanced Manufacturing and Using Big Data to Enhance Production from Big Shops to Small Shops](https://www.youtube.com/watch?v=R_3KRKaOZZM)
 
+# Guest
+
+<a name = "guest"></a>
 
 
 <p>&nbsp;</p>
