@@ -18,15 +18,27 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Supervised Learning]<!-- (/course_content_23_2/files/Data_Science_in_Manufacturing-Week_7_updated-2023.pdf) -->
+* [Supervised Learning](Files/Data_Science_in_Manufacturing-Week_7_updated-2023.pdf)
 
 #### Video lectures
 
-* [Supervised Learning]()
+* [Supervised Learning](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_7/DSM_lecture_week_7.mp4?csf=1&web=1&e=sjCBrs)
 
 <br />
 
-  
+# Guest
+
+<a name = "guest"></a>
+
+### Guest talk 
+
+* Andrew Percy is the Director of Virtual Manufacturing, a Scottish-Swedish manufacturing consultancy which marries old school industrial engineering with new and emerging technology. A marine engineer by trade and a Mechanical Engineering graduate of the University of Glasgow set the foundation for a career in engineering. Nearly 30 years’ experience running engineering businesses across Europe, Africa, Russia and the Middle East plus a 5 year secondment in Australia allow consultancy to be delivered with real world experience of both operations, commercial awareness and organisational complexities. 
+
+#### Video 
+* [Guest talk](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_7/DSM_guest_talk_01.mp4?csf=1&web=1&e=cMFF7o)
+
+<p>&nbsp;</p>
+
 <a name = "reading"></a>
 
 
