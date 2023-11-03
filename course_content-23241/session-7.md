@@ -72,7 +72,7 @@ back to [course content](index#course_organisation)
 * Machine Learning Introduction with Python
 
 #### Video lectures
-* [DSM Workshop 7]()
+* [DSM Workshop 7](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_7/DSM_workshop_week_7.mp4?csf=1&web=1&e=LDNSNO)
 
 <p>&nbsp;</p>
 
