@@ -3,7 +3,7 @@ back to [course content](index#course_organisation)
 
 # Week 8, Session 1: Unsupervised Learning
 
-[Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
+[Lecture](#lecture) | [Reading](#reading) | [Guest](#guest)| [Workshop](#workshop) | 
 <p><br /></p>
 
 #### Session topics
@@ -17,11 +17,11 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Unsupervised Learning]<!-- (/course_content_23_2/files/Data_Science_in_Manufacturing-Week_8_Unsupervised.pdf)  -->
+* [Unsupervised Learning](Files/Data_Science_in_Manufacturing-Week_8_Unsupervised.pdf)
 
 #### Video lectures
 * [DSM Lecture 8]()
-* Q&A in the Teams group 
+
 
 <br />
 
@@ -32,7 +32,26 @@ back to [course content](index#course_organisation)
 
 <p>&nbsp;</p>
 
+***
+# Guest 
 
+Dr James Bednar, Anaconda
+
+Jim Bednar is the Director of Custom Services at Anaconda, Inc., where he leads a team working closely with industry and government clients to apply numerical Python tools to their applications. Dr. Bednar holds a Ph.D. in Computer Science from the University of Texas, along with degrees in Electrical Engineering and Philosophy. He has published more than 50 papers and books about the visual system, software development, and reproducible science. Dr. Bednar manages the HoloViz project, a collection of open-source Python tools that includes Panel, hvPlot, Datashader, HoloViews, GeoViews, Param, Lumen, and Colorcet. Dr. Bednar was a Lecturer and Reader in Computational Neuroscience at the University of Edinburgh from 2004-2015, and previously worked in hardware engineering and data acquisition at National Instruments.
+
+### Slides
+* [Dr James Bednar](Files/Data_Science_in_Manufacturing-Week_8_Unsupervised.pdf)
+
+#### Video 
+* [Dr James Bednar]()
+
+Dr James Bednar, Anaconda
+
+### Slides
+* [Dr James Bednar 1](Files/)
+
+#### Video 
+* [Dr James Bednar]()
 ***
 
 # Workshop
