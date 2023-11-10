@@ -83,7 +83,8 @@ back to [index](index#course_organisation)
 #### Acknowledgements:
 
 The workshops contain material from:
-* Boston Housing Regression Analysis by tolgahancepel 
+* Boston Housing Regression Analysis by tolgahancepel
+* Scikit unsupervised leanring exercises
 * Split Your Dataset With scikit-learn's train_test_split() by Mirko Stojiljković 
 * Clustering Based Unsupervised Learning by Syed Sadat Nazrul
 * How to visualize a single Decision Tree from the Random Forest in Scikit-Learn (Python)? by Piotr Płoński
