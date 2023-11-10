@@ -31,6 +31,8 @@ back to [course content](index#course_organisation)
 
 * [Document clustering](https://scikit-learn.org/stable/auto_examples/text/plot_document_clustering.html#sphx-glr-auto-examples-text-plot-document-clustering-py)
 * [K-mean vs MBKM](https://scikit-learn.org/stable/auto_examples/cluster/plot_mini_batch_kmeans.html#sphx-glr-auto-examples-cluster-plot-mini-batch-kmeans-py)
+* [Unsupervised learning with Python](https://trenton3983.github.io/files/projects/2021-03-29_unsupervised_learning_in_python/2021-03-29_unsupervised_learning_in_python.html)
+* [Hands-On Unsupervised Learning using Python: How to Build Applied Machine Learning Solutions from Unlabeled Data](https://github.com/aapatel09/handson-unsupervised-learning/tree/master)
 
 
 <p>&nbsp;</p>
