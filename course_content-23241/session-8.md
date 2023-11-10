@@ -68,7 +68,7 @@ Dr Kendra Briken is a Senior lecturer at Strathclyde Business School. She is tra
  
 
 #### Video workshop
-* [DSM Workshop 8-Jupyter Notebooks and Machine Learning]()
+* [DSM Workshop 8-Jupyter Notebooks and Machine Learning](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/ETz9_Up1pepJnJ5cTfN-NYYB_vduYIUE3DrIFXGCafpawg?e=HAuOLq)
 
 <p>&nbsp;</p>
 
