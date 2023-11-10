@@ -28,6 +28,8 @@ back to [course content](index#course_organisation)
   
 <a name = "reading"></a>
 
+* [Document clustering](https://scikit-learn.org/stable/auto_examples/text/plot_document_clustering.html#sphx-glr-auto-examples-text-plot-document-clustering-py)
+* [K-mean vs MBKM](https://scikit-learn.org/stable/auto_examples/cluster/plot_mini_batch_kmeans.html#sphx-glr-auto-examples-cluster-plot-mini-batch-kmeans-py)
 
 
 <p>&nbsp;</p>
@@ -41,9 +43,9 @@ Jim Bednar is the Director of Custom Services at Anaconda, Inc., where he leads 
 
 ### Slides
 * [Dr James Bednar 1](Files/JB_1.pdf)
-* [Dr James Bednar 2](Files/JB_2)
+* [Dr James Bednar 2](Files/JB_2.pdf)
 
-#### Video 
+### Video 
 * [Dr James Bednar](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Recordings/guest_talk_with_Jim_Bednar.mp4?csf=1&web=1&e=kslJdQ)
 
 Dr Kendra Briken
@@ -52,8 +54,8 @@ Dr Kendra Briken is a Senior lecturer at Strathclyde Business School. She is tra
 
 ### Slides
 * [Dr Kendra Briken](Files/KB.pdf)
-* 
-#### Video 
+
+### Video 
 * [Dr Kendra Briken]()
 
 
@@ -68,7 +70,7 @@ Dr Kendra Briken is a Senior lecturer at Strathclyde Business School. She is tra
  
 
 #### Video workshop
-* [DSM Workshop 8-Jupyter Notebooks and Machine Learning](https://uoe.sharepoint.com/:v:/s/DS4M_9-2022copy/ETz9_Up1pepJnJ5cTfN-NYYB_vduYIUE3DrIFXGCafpawg?e=HAuOLq)
+* [DSM Workshop 8-Jupyter Notebooks and Machine Learning](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_8/DSM_Workshop_week_8.mp4?csf=1&web=1&e=8ZSb3f)
 
 <p>&nbsp;</p>
 
