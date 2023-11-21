@@ -99,8 +99,8 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 | 5 | Oct 20  | <a href="session-5#lecture">Current Manufacturing Software / PLM / ERP /MES </a> | <a href="session-5#workshop">Data Representation / Relational databases </a> |  A.Sherlock, D. Korre  |
 | 6 | Oct 27  |<a href="session-6#lecture"> GIT  </a>| <a href="session-6#workshop"> GIT, Project feedback and resources  </a> | A.Sherlock, D. Korre  |    
 | 7 | Nov 03 |<a href="session-7#lecture">Machine Learning and Artificial Intelligence (ML/AI) - Supervised  </a> | <a href="session-7#workshop">--> Machine Learning & prediction analytics (Supervised Learning)   </a> | A.Sherlock, D. Korre  |   
-| 8 | Nov 10  | <a href="session-8#lecture"> -->Machine Learning and Artificial Intelligence (ML/AI) - Unsupervised Learning </a> | <a href="session-8#workshop">--> Machine Learning & prediction analytics (Unupervised Learning and crossvalidation) </a>  | A.Sherlock, D. Korre   |   
-| 9 | Nov 17  | <!--<a href="session-9#lecture">-->Asset Management and Guest Lecture / IoT  | <!--<a href="session-9#workshop">-->Machine Learning and Visual Exercise (Data mining factory data)   |  A.Sherlock, D. Korre  | 
+| 8 | Nov 10  | <a href="session-8#lecture"> Machine Learning and Artificial Intelligence (ML/AI) - Unsupervised Learning & guest lectures </a> | <a href="session-8#workshop"> Machine Learning and Visual Exercise (Data mining factory data) </a>  | A.Sherlock, D. Korre   |   
+| 9 | Nov 17  | <a href="session-9#lecture">Asset Management and Guest Lecture / IoT </a>| <a href="session-9#workshop"> Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)  </a> |  A.Sherlock, D. Korre  | 
 | 10 | Nov 24  | EBoM / MBoM / Geometry / Time Series |  Presenting Information  | A.Sherlock, D. Korre   | 
 |  | Dec  |   | <!--<a href="assessment">-->Assessment</a> |  |   
 |  |   | Guest Lecture: Data driven Manufacturing (DDM) |  Clinics  | A.Sherlock, D. Korre   |   
