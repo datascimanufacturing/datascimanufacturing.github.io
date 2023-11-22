@@ -20,7 +20,7 @@ back to [course content](index#course_organisation)
 * [Unsupervised Learning](Files/Data_Science_in_Manufacturing-Week_8_Unsupervised.pdf)
 
 #### Video lectures
-* [DSM Lecture 8]()
+* [DSM Lecture 8](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_8/DSM_week_8_lecture.mp4?csf=1&web=1&e=1RyIxr)
 
 
 <br />
