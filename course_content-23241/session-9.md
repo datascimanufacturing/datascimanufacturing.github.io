@@ -17,7 +17,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Asset Management / IoT]<!-- (/course_content_2022/files/Data_Science_in_Manufacturing-Week_9_new.pdf)  -->
+* [Asset Management / IoT](Files/Data_Science_in_Manufacturing-Week_9_new.pdf)
 
 #### Video lectures
 * [DSM Lecture 9]()
@@ -81,11 +81,11 @@ World Economic Forum, 2021. [online] Www3.weforum.org. Available at: https://www
 <a name = "workshop"></a>
 ### Workshop 9  (120min)
 
-* Jupyter Notebooks and Machine Learning 
+* Unsipervised Learning
  
 
 #### Video workshop
-* [DSM Workshop 9-Jupyter Notebooks and Machine Learning]()
+* [DSM Workshop 9-Unsupervised Learning](https://uoe.sharepoint.com/sites/DS4M_9-23/Shared%20Documents/General/Recordings/General-20231117_105159-Meeting%20Recording.mp4?web=1)
 
 <p>&nbsp;</p>
 
