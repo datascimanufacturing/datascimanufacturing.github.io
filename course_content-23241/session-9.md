@@ -85,7 +85,7 @@ World Economic Forum, 2021. [online] Www3.weforum.org. Available at: https://www
  
 
 #### Video workshop
-* [DSM Workshop 9-Unsupervised Learning](https://uoe.sharepoint.com/sites/DS4M_9-23/Shared%20Documents/General/Recordings/General-20231117_105159-Meeting%20Recording.mp4?web=1)
+* [DSM Workshop 9-Unsupervised Learning](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_9/DSM_week_9_workshop.mp4?csf=1&web=1&e=KW6VPn)
 
 <p>&nbsp;</p>
 
