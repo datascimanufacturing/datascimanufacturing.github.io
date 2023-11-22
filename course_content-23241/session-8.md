@@ -59,7 +59,7 @@ Dr Kendra Briken is a Senior lecturer at Strathclyde Business School. She is tra
 * [Dr Kendra Briken](Files/KB.pdf)
 
 ### Video 
-* [Dr Kendra Briken]()
+* [Dr Kendra Briken](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_8/DSM_week_8_guest_lecture.mp4?csf=1&web=1&e=LluRE0)
 
 
 ***
