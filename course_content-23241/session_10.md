@@ -43,7 +43,7 @@ Machine Learning: A Probabilistic Perspective by Kevin P. Murphy, MIT Press, 201
 Hastings, Nicholas A. J.. Asset Management Information Systems 2010 . In: Physical Asset Management. Springer, London. https://doi.org/10.1007/978-1-84882-751-6_19
 * PwC, 2020. Asset Management 2020 A Brave New World. [ebook] Available at: <https://www.pwc.com/gx/en/industries/financial-services/asset-management/publications/asset-management-2020-a-brave-new-world.html> .
 * Automation, I., 2021. ANSI/ISA-95.00.01-2010 (IEC 62264-1 Mod) Enterprise-Control System Integration - Part 1: Models and Terminology. [online] isa.org. Available at: https://www.isa.org/products/ansi-isa-95-00-01-2010-iec-62264-1-mod-enterprise.
-* Siemens Digital Industries Software. 2021. ISA 95 Framework & Layers | Siemens Software. [online] Available at: https://www.plm.automation.siemens.com/global/en/our-story/glossary/isa-95-framework-and-layers/53244.
+* Siemens Digital Industries Software. 2021. ISA 95 Framework & Layers, Siemens Software. [online] Available at: https://www.plm.automation.siemens.com/global/en/our-story/glossary/isa-95-framework-and-layers/53244.
 * Katti, Badarinath. 2020. Ontology-Based Approach to Decentralized Production Control in the Context of Cloud Manufacturing Execution Systems. 10.13140/RG.2.2.11486.46402. 
 * Dorsemaine, B., Gaulier, J., Wary, J., Kheir, N. and Urien, P., 2015. Internet of Things: A Definition &amp; Taxonomy. 2015 9th International Conference on Next Generation Mobile Applications, Services and Technologies.
 * Boyes, H., Hallaq, B., Cunningham, J. and Watson, T., 2018. The industrial internet of things (IIoT): An analysis framework. Computers in Industry, 101, pp.1-12.
