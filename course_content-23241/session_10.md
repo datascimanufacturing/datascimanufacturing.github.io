@@ -21,12 +21,16 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [EBoM / MBoM / Geometry / Time Series]<!-- (/course_content_2022/files/Data_Science_in_Manufacturing-Week_10.pdf ) --> 
+* [EBoM / MBoM / Geometry / Time Series](Files/Data_Science_in_Manufacturing-Week_10.pdf )
 
 #### Video lectures
-* [DSM Lecture 10]()
+* [DSM Lecture 10](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_10/DSM_week_10_lecture.mp4?csf=1&web=1&e=HBuHJA)
 
 <br />
+
+### Guest Lecture
+
+[Jane Marshall and Joanna McKenzie from Bellrock](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_10/DSM_week_10_guest.mp4?csf=1&web=1&e=8oSeOK)
 
 asset mng
 #### Reading list and resources 
@@ -104,9 +108,12 @@ World Economic Forum, 2021. [online] Www3.weforum.org. Available at: https://www
 ### Workshop 10  (120min)
 
 * Python Libraries and functionality for working with 3D models
+  
+### Slides
+* [Python for working with 3D models](Files/ )
 
-
-* [DSM Workshop 10]()
+### Video
+* [DSM Workshop 10](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_10/DSM_workshop_week_7.mp4?csf=1&web=1&e=Kdanqy)
 
 <p>&nbsp;</p>
 
