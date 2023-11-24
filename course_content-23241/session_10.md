@@ -110,7 +110,7 @@ World Economic Forum, 2021. [online] Www3.weforum.org. Available at: https://www
 * Python Libraries and functionality for working with 3D models
   
 ### Slides
-* [Python for working with 3D models](Files/ )
+* [Python for working with 3D models](Files/3DShapewithPython.pdf )
 
 ### Video
 * [DSM Workshop 10](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_10/DSM_workshop_week_7.mp4?csf=1&web=1&e=Kdanqy)
