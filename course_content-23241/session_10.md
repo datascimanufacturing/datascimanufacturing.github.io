@@ -32,7 +32,7 @@ back to [course content](index#course_organisation)
 
 [Jane Marshall and Joanna McKenzie from Bellrock](https://uoe.sharepoint.com/:v:/r/sites/DS4M_9-23/Shared%20Documents/General/Week_10/DSM_week_10_guest.mp4?csf=1&web=1&e=8oSeOK)
 
-asset mng
+
 #### Reading list and resources 
 
 
