@@ -27,7 +27,7 @@ In the final submission, please include the following items (1-4) as appendices 
 1. __Data__ 
     * description of your data and source/owner
         * metadata or other simple description of data content and structure (e.g., "_csv file containing 100 lines with 5 columns describing age, height ..., linked to secondary source ..._")
-    * summary of the data exploration and pre-processing phase
+    * summary of the data exploration, pre-processing and data analysis phase
         * how you moved from source to the version you fed into your notebook
         * provide data snapshots to illustrate source to post processing (e.g., first, or random, three lines of a csv file highlighting key attributes/columns)
             * NOTE: mask/anonymise snapshot if necessary
