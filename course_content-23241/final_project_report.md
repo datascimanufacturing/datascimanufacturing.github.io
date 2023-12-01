@@ -31,7 +31,7 @@ In the final submission, please include the following items (1-4) as appendices 
         * how you moved from source to the version you fed into your notebook
         * provide data snapshots to illustrate source to post processing (e.g., first, or random, three lines of a csv file highlighting key attributes/columns)
             * NOTE: mask/anonymise snapshot if necessary
-        * list tool(s) used, using the tool matrix
+        * list tool(s) used
 
 <!-- 1. __Journal__
     * documenting the process you followed
@@ -49,20 +49,19 @@ In the final submission, please include the following items (1-4) as appendices 
     * each appendix must be referenced within the main report -->
 
 * __Report Content__
-    * your big question / challenge - one sentence or a couple of bullet points 
-    * your (key/primary) target users (and environment if applicable)
-      * _this should forward reference also to an appendix containing the final version of your brief_    
+    * your big question / challenge 
+    * your (key/primary) target users and/or environment if applicable  
 
    <!-- * annotated design sketches
         * highlight which ideas you kept, which you rejected, and why. Justify your decisions using concepts from the lectures, any additional research and feedback from 
       * _this should forward reference also to an appendix containing the final version of your design_     -->
       
     * EDA and its impact on your plan
-    
-    * impact of tool exploration and review, critical analysis, peer feedback and formal evaluation plan on original brief and initial design  
-      * _this should forward reference also to two appendices containing:_
-         * the final version of your annotated tool matrix, showing between 3 and 5 tools that link back to your goals
-         * your formal evaluation plan, and a summary of any initial results/feedback &ndash; from target end users and/or your peers if you took part in the tutorial on evaluation. 
+    * Data analysis and its impact on your plan
+    * Data visualisation and its impact on your plan
+    * Conclusions reached
+ 
+      You should also reflect on:
       
     * overall, reflect on the new skills you gained (techniques, tools, process) and how these fed into your delivery; you may present this as a comparison of your initial learning goals against the skills you actually gained
     * summary of future plan, indicating extensibility and reusability, and taking into account practical constraints
@@ -75,9 +74,10 @@ In the final submission, please include the following items (1-4) as appendices 
 * __In writing your report, reflect on:__
 
     * the process you followed
-        * how a focus on visualisation as a tool for thinking, exploration and presentation impacted your workflow and outcomes
+        * how data science has impacted your approach on solving data related problems
+        * how visualisation as a tool for thinking, exploration and presentation impacted your workflow and outcomes
     * how you chose to communicate your ideas through the design process
-    * the insights you discovered through EDA, any challenges you encountered and steps you took to resolve those
+    * the insights you discovered through EDA, data analysis and visualisation, any challenges you encountered and steps you took to resolve those
     * what you will take away from this course and what you would do differently if you repeated it or took a similar course
 
 
