@@ -45,8 +45,8 @@ In the final submission, please include the following items (1-4) as appendices 
 
 * __Report length__
     * keep descriptions brief and to the point; ideally, use bullet points
-   <!--  * each appendix that mirrors an assignment must conform to the submission instructions for the assignment in which it was specified 
-    * each appendix must be referenced within the main report -->
+    * each appendix that mirrors an assignment must conform to the submission instructions for the assignment in which it was specified 
+    * each appendix must be referenced within the main report 
 
 * __Report Content__
     * your big question / challenge 
